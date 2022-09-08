@@ -1,0 +1,1836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.8 (3675060 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="-3.7359400" minlon="-38.5126200" maxlat="-3.7329200" maxlon="-38.5073900"/>
+ <node id="253406715" visible="true" version="9" changeset="91563254" timestamp="2020-09-26T20:31:39Z" user="matheusgomesms" uid="3781248" lat="-3.7336423" lon="-38.5063197">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="264714775" visible="true" version="4" changeset="69181799" timestamp="2019-04-13T16:27:44Z" user="erickdeoliveiraleal" uid="463504" lat="-3.7341528" lon="-38.5096997">
+  <tag k="name" v="Aldeota"/>
+  <tag k="place" v="suburb"/>
+ </node>
+ <node id="264770733" visible="true" version="8" changeset="82179189" timestamp="2020-03-13T19:54:17Z" user="matheusgomesms" uid="3781248" lat="-3.7302161" lon="-38.5169152"/>
+ <node id="265021121" visible="true" version="8" changeset="99533639" timestamp="2021-02-18T15:22:49Z" user="matheusgomesms" uid="3781248" lat="-3.7376441" lon="-38.5122881">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="265021148" visible="true" version="7" changeset="100005010" timestamp="2021-02-25T21:38:24Z" user="ProfessorLupin" uid="10456431" lat="-3.7386876" lon="-38.5090724">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="265021150" visible="true" version="10" changeset="93461225" timestamp="2020-11-03T07:12:01Z" user="GasWorksPark" uid="10652946" lat="-3.7383171" lon="-38.5101789">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="265021151" visible="true" version="7" changeset="93461225" timestamp="2020-11-03T07:12:01Z" user="GasWorksPark" uid="10652946" lat="-3.7379703" lon="-38.5112214"/>
+ <node id="476740898" visible="true" version="11" changeset="91563254" timestamp="2020-09-26T20:31:39Z" user="matheusgomesms" uid="3781248" lat="-3.7329376" lon="-38.5084426">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="476752572" visible="true" version="7" changeset="87028401" timestamp="2020-06-23T10:26:52Z" user="matheusgomesms" uid="3781248" lat="-3.7322586" lon="-38.5105566">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="476760474" visible="true" version="13" changeset="91563254" timestamp="2020-09-26T20:31:39Z" user="matheusgomesms" uid="3781248" lat="-3.7369350" lon="-38.5097308">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="476760475" visible="true" version="5" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7362376" lon="-38.5118452"/>
+ <node id="476760477" visible="true" version="5" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7359076" lon="-38.5128838"/>
+ <node id="476792289" visible="true" version="8" changeset="93473197" timestamp="2020-11-03T10:07:09Z" user="GasWorksPark" uid="10652946" lat="-3.7332829" lon="-38.5073594"/>
+ <node id="476794337" visible="true" version="14" changeset="93465603" timestamp="2020-11-03T08:19:27Z" user="GasWorksPark" uid="10652946" lat="-3.7315223" lon="-38.5079833">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="476794340" visible="true" version="10" changeset="93465603" timestamp="2020-11-03T08:19:27Z" user="GasWorksPark" uid="10652946" lat="-3.7308305" lon="-38.5100961">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="476816781" visible="true" version="10" changeset="96211915" timestamp="2020-12-21T18:13:24Z" user="matheusgomesms" uid="3781248" lat="-3.7294181" lon="-38.5096452">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="476816782" visible="true" version="10" changeset="96211915" timestamp="2020-12-21T18:13:24Z" user="matheusgomesms" uid="3781248" lat="-3.7301078" lon="-38.5075315">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="477116647" visible="true" version="6" changeset="100229727" timestamp="2021-03-01T20:40:45Z" user="TerraFormerJake" uid="12587545" lat="-3.7312390" lon="-38.5137306"/>
+ <node id="477116655" visible="true" version="6" changeset="99533639" timestamp="2021-02-18T15:22:49Z" user="matheusgomesms" uid="3781248" lat="-3.7371867" lon="-38.5121377"/>
+ <node id="477116656" visible="true" version="11" changeset="99533639" timestamp="2021-02-18T15:22:49Z" user="matheusgomesms" uid="3781248" lat="-3.7378797" lon="-38.5100390"/>
+ <node id="477116657" visible="true" version="7" changeset="99533639" timestamp="2021-02-18T15:22:49Z" user="matheusgomesms" uid="3781248" lat="-3.7382431" lon="-38.5089386"/>
+ <node id="477358142" visible="true" version="8" changeset="99533639" timestamp="2021-02-18T15:22:49Z" user="matheusgomesms" uid="3781248" lat="-3.7315771" lon="-38.5126782">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="477371681" visible="true" version="8" changeset="96211915" timestamp="2020-12-21T18:13:24Z" user="matheusgomesms" uid="3781248" lat="-3.7290720" lon="-38.5107059"/>
+ <node id="477371687" visible="true" version="6" changeset="93465603" timestamp="2020-11-03T08:19:27Z" user="GasWorksPark" uid="10652946" lat="-3.7319254" lon="-38.5115991"/>
+ <node id="477371706" visible="true" version="9" changeset="93465603" timestamp="2020-11-03T08:19:27Z" user="GasWorksPark" uid="10652946" lat="-3.7304832" lon="-38.5111541"/>
+ <node id="477466813" visible="true" version="5" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7339444" lon="-38.5122570"/>
+ <node id="477466896" visible="true" version="7" changeset="82179189" timestamp="2020-03-13T19:54:17Z" user="matheusgomesms" uid="3781248" lat="-3.7309011" lon="-38.5147827">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="478337860" visible="true" version="7" changeset="89782528" timestamp="2020-08-22T14:07:13Z" user="matheusgomesms" uid="3781248" lat="-3.7365971" lon="-38.5107700"/>
+ <node id="478337866" visible="true" version="7" changeset="82838265" timestamp="2020-03-30T18:01:31Z" user="matheusgomesms" uid="3781248" lat="-3.7326046" lon="-38.5094792"/>
+ <node id="478337886" visible="true" version="10" changeset="96211915" timestamp="2020-12-21T18:13:24Z" user="matheusgomesms" uid="3781248" lat="-3.7297711" lon="-38.5085633"/>
+ <node id="478337887" visible="true" version="9" changeset="93465603" timestamp="2020-11-03T08:19:27Z" user="GasWorksPark" uid="10652946" lat="-3.7311802" lon="-38.5090237"/>
+ <node id="478337888" visible="true" version="8" changeset="99533639" timestamp="2021-02-18T15:22:49Z" user="matheusgomesms" uid="3781248" lat="-3.7375379" lon="-38.5110742"/>
+ <node id="482156283" visible="true" version="9" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7329628" lon="-38.5154261">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="482156284" visible="true" version="8" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7332871" lon="-38.5143894"/>
+ <node id="482156285" visible="true" version="8" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7336299" lon="-38.5133193">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="482156286" visible="true" version="8" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7342575" lon="-38.5112001">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="482156287" visible="true" version="5" changeset="100289474" timestamp="2021-03-02T15:23:37Z" user="TerraFormerJake" uid="12587545" lat="-3.7346089" lon="-38.5101273"/>
+ <node id="482156288" visible="true" version="14" changeset="108163340" timestamp="2021-07-17T14:54:18Z" user="matheusgomesms" uid="3781248" lat="-3.7349526" lon="-38.5090835">
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="traffic_signals:direction" v="forward"/>
+ </node>
+ <node id="482156289" visible="true" version="8" changeset="106219024" timestamp="2021-06-11T14:05:38Z" user="matheusgomesms" uid="3781248" lat="-3.7353058" lon="-38.5079972"/>
+ <node id="482156290" visible="true" version="9" changeset="106219024" timestamp="2021-06-11T14:05:38Z" user="matheusgomesms" uid="3781248" lat="-3.7356409" lon="-38.5069569">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="482168692" visible="true" version="7" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7367876" lon="-38.5073253"/>
+ <node id="482168695" visible="true" version="8" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7364493" lon="-38.5083617"/>
+ <node id="482168698" visible="true" version="8" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7360843" lon="-38.5094506"/>
+ <node id="482168701" visible="true" version="5" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7357471" lon="-38.5104947"/>
+ <node id="482168708" visible="true" version="4" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7350990" lon="-38.5126269"/>
+ <node id="482168724" visible="true" version="6" changeset="99533639" timestamp="2021-02-18T15:22:49Z" user="matheusgomesms" uid="3781248" lat="-3.7347252" lon="-38.5136710"/>
+ <node id="482168726" visible="true" version="6" changeset="100229727" timestamp="2021-03-01T20:40:45Z" user="TerraFormerJake" uid="12587545" lat="-3.7343807" lon="-38.5147196"/>
+ <node id="482168728" visible="true" version="7" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7340731" lon="-38.5157738"/>
+ <node id="482794580" visible="true" version="6" changeset="100291350" timestamp="2021-03-02T15:57:12Z" user="TerraFormerJake" uid="12587545" lat="-3.7346906" lon="-38.5066593"/>
+ <node id="482794582" visible="true" version="8" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7335017" lon="-38.5109575"/>
+ <node id="482794583" visible="true" version="6" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7331647" lon="-38.5120026"/>
+ <node id="482794584" visible="true" version="9" changeset="100229627" timestamp="2021-03-01T20:37:39Z" user="TerraFormerJake" uid="12587545" lat="-3.7328235" lon="-38.5130713"/>
+ <node id="482794585" visible="true" version="8" changeset="100229727" timestamp="2021-03-01T20:40:45Z" user="TerraFormerJake" uid="12587545" lat="-3.7324921" lon="-38.5141251"/>
+ <node id="482794586" visible="true" version="7" changeset="100229627" timestamp="2021-03-01T20:37:39Z" user="TerraFormerJake" uid="12587545" lat="-3.7321603" lon="-38.5151799"/>
+ <node id="482794700" visible="true" version="5" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7343526" lon="-38.5076899"/>
+ <node id="482794763" visible="true" version="10" changeset="91563254" timestamp="2020-09-26T20:31:39Z" user="matheusgomesms" uid="3781248" lat="-3.7339987" lon="-38.5087782"/>
+ <node id="482794786" visible="true" version="7" changeset="87028401" timestamp="2020-06-23T10:26:52Z" user="matheusgomesms" uid="3781248" lat="-3.7333213" lon="-38.5108975"/>
+ <node id="482794787" visible="true" version="6" changeset="82838265" timestamp="2020-03-30T18:01:31Z" user="matheusgomesms" uid="3781248" lat="-3.7336581" lon="-38.5098198"/>
+ <node id="616542016" visible="true" version="7" changeset="87455876" timestamp="2020-07-02T13:07:16Z" user="matheusgomesms" uid="3781248" lat="-3.7305594" lon="-38.5158458"/>
+ <node id="616542017" visible="true" version="5" changeset="87455876" timestamp="2020-07-02T13:07:16Z" user="matheusgomesms" uid="3781248" lat="-3.7318281" lon="-38.5162362"/>
+ <node id="623200457" visible="true" version="6" changeset="82179189" timestamp="2020-03-13T19:54:17Z" user="matheusgomesms" uid="3781248" lat="-3.7317561" lon="-38.5121210"/>
+ <node id="626198771" visible="true" version="5" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7357230" lon="-38.5128276"/>
+ <node id="2637461963" visible="true" version="3" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7337075" lon="-38.5088171"/>
+ <node id="2637461965" visible="true" version="3" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7334395" lon="-38.5087343"/>
+ <node id="2637461966" visible="true" version="3" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7333440" lon="-38.5090262"/>
+ <node id="2637461968" visible="true" version="3" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7336111" lon="-38.5091131"/>
+ <node id="2637461970" visible="true" version="2" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7330241" lon="-38.5087218"/>
+ <node id="2637461971" visible="true" version="2" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7329929" lon="-38.5088197"/>
+ <node id="2637461972" visible="true" version="2" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7331948" lon="-38.5088841"/>
+ <node id="2637461973" visible="true" version="2" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7332259" lon="-38.5087863"/>
+ <node id="3215213046" visible="true" version="3" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7345219" lon="-38.5071674"/>
+ <node id="3215213047" visible="true" version="4" changeset="106219024" timestamp="2021-06-11T14:05:38Z" user="matheusgomesms" uid="3781248" lat="-3.7354745" lon="-38.5074736"/>
+ <node id="3215230102" visible="true" version="1" changeset="27170468" timestamp="2014-12-02T02:12:53Z" user="Bonix-Mapper" uid="2030995" lat="-3.7349254" lon="-38.5077560"/>
+ <node id="3215230103" visible="true" version="1" changeset="27170468" timestamp="2014-12-02T02:12:53Z" user="Bonix-Mapper" uid="2030995" lat="-3.7350145" lon="-38.5077848"/>
+ <node id="3215230104" visible="true" version="1" changeset="27170468" timestamp="2014-12-02T02:12:53Z" user="Bonix-Mapper" uid="2030995" lat="-3.7350397" lon="-38.5074008"/>
+ <node id="3215230105" visible="true" version="1" changeset="27170468" timestamp="2014-12-02T02:12:53Z" user="Bonix-Mapper" uid="2030995" lat="-3.7351288" lon="-38.5074296"/>
+ <node id="3215233241" visible="true" version="7" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7366191" lon="-38.5078322"/>
+ <node id="3215233242" visible="true" version="3" changeset="89782528" timestamp="2020-08-22T14:07:13Z" user="matheusgomesms" uid="3781248" lat="-3.7374637" lon="-38.5081052"/>
+ <node id="3215233940" visible="true" version="3" changeset="59899619" timestamp="2018-06-16T18:14:35Z" user="Jakson Aquino" uid="4393426" lat="-3.7342244" lon="-38.5080903"/>
+ <node id="3215233941" visible="true" version="5" changeset="106219024" timestamp="2021-06-11T14:05:38Z" user="matheusgomesms" uid="3781248" lat="-3.7351720" lon="-38.5084082"/>
+ <node id="3225967977" visible="true" version="7" changeset="113233205" timestamp="2021-11-01T12:07:47Z" user="Felipe Alves" uid="3045331" lat="-3.7303496" lon="-38.5099415"/>
+ <node id="3225967978" visible="true" version="7" changeset="90048970" timestamp="2020-08-27T23:37:00Z" user="matheusgomesms" uid="3781248" lat="-3.7300106" lon="-38.5109933"/>
+ <node id="3372672418" visible="true" version="4" changeset="108163340" timestamp="2021-07-17T14:54:18Z" user="matheusgomesms" uid="3781248" lat="-3.7347741" lon="-38.5096232"/>
+ <node id="3372672419" visible="true" version="4" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7359080" lon="-38.5099894"/>
+ <node id="3372672622" visible="true" version="4" changeset="108163340" timestamp="2021-07-17T14:54:18Z" user="matheusgomesms" uid="3781248" lat="-3.7338330" lon="-38.5093120"/>
+ <node id="3372672655" visible="true" version="4" changeset="82838265" timestamp="2020-03-30T18:01:31Z" user="matheusgomesms" uid="3781248" lat="-3.7318865" lon="-38.5092471"/>
+ <node id="3372672656" visible="true" version="6" changeset="91563254" timestamp="2020-09-26T20:31:39Z" user="matheusgomesms" uid="3781248" lat="-3.7322238" lon="-38.5082132"/>
+ <node id="3874928926" visible="true" version="2" changeset="35732704" timestamp="2015-12-03T18:22:01Z" user="danielcardoso" uid="2857986" lat="-3.7330570" lon="-38.5099080"/>
+ <node id="3874928927" visible="true" version="2" changeset="35732704" timestamp="2015-12-03T18:22:01Z" user="danielcardoso" uid="2857986" lat="-3.7330842" lon="-38.5098017"/>
+ <node id="3874928928" visible="true" version="2" changeset="35732704" timestamp="2015-12-03T18:22:02Z" user="danielcardoso" uid="2857986" lat="-3.7327472" lon="-38.5097010"/>
+ <node id="3874928929" visible="true" version="2" changeset="35732704" timestamp="2015-12-03T18:22:02Z" user="danielcardoso" uid="2857986" lat="-3.7327146" lon="-38.5098017"/>
+ <node id="3874928930" visible="true" version="2" changeset="35732704" timestamp="2015-12-03T18:22:02Z" user="danielcardoso" uid="2857986" lat="-3.7328015" lon="-38.5098290"/>
+ <node id="3874928931" visible="true" version="2" changeset="35732704" timestamp="2015-12-03T18:22:02Z" user="danielcardoso" uid="2857986" lat="-3.7327825" lon="-38.5098862"/>
+ <node id="3874928932" visible="true" version="2" changeset="35732704" timestamp="2015-12-03T18:22:02Z" user="danielcardoso" uid="2857986" lat="-3.7328803" lon="-38.5099243"/>
+ <node id="3874928933" visible="true" version="2" changeset="35732704" timestamp="2015-12-03T18:22:02Z" user="danielcardoso" uid="2857986" lat="-3.7329021" lon="-38.5098562"/>
+ <node id="4152096545" visible="true" version="2" changeset="47019666" timestamp="2017-03-20T18:11:43Z" user="Felipe Alves" uid="3045331" lat="-3.7357095" lon="-38.5092360">
+  <tag k="natural" v="tree"/>
+  <tag k="source" v="survey"/>
+  <tag k="species:br" v="Oitizeiro"/>
+ </node>
+ <node id="4152101922" visible="true" version="2" changeset="47019666" timestamp="2017-03-20T18:11:43Z" user="Felipe Alves" uid="3045331" lat="-3.7352668" lon="-38.5090964">
+  <tag k="natural" v="tree"/>
+  <tag k="source" v="survey"/>
+  <tag k="species:br" v="Oitizeiro"/>
+ </node>
+ <node id="4198112093" visible="true" version="2" changeset="47019666" timestamp="2017-03-20T18:11:43Z" user="Felipe Alves" uid="3045331" lat="-3.7341214" lon="-38.5087294">
+  <tag k="natural" v="tree"/>
+  <tag k="source" v="survey"/>
+  <tag k="species:br" v="Oitizeiro"/>
+ </node>
+ <node id="4198112094" visible="true" version="2" changeset="47019666" timestamp="2017-03-20T18:11:43Z" user="Felipe Alves" uid="3045331" lat="-3.7343110" lon="-38.5087940">
+  <tag k="natural" v="tree"/>
+  <tag k="source" v="survey"/>
+  <tag k="species:br" v="Oitizeiro"/>
+ </node>
+ <node id="4198113317" visible="true" version="2" changeset="47019666" timestamp="2017-03-20T18:11:43Z" user="Felipe Alves" uid="3045331" lat="-3.7347559" lon="-38.5089314">
+  <tag k="natural" v="tree"/>
+  <tag k="source" v="survey"/>
+  <tag k="species:br" v="Oitizeiro"/>
+ </node>
+ <node id="4294841938" visible="true" version="1" changeset="40634571" timestamp="2016-07-10T17:23:53Z" user="victorquaresma" uid="2507488" lat="-3.7337826" lon="-38.5087986"/>
+ <node id="4294841939" visible="true" version="1" changeset="40634571" timestamp="2016-07-10T17:23:53Z" user="victorquaresma" uid="2507488" lat="-3.7337287" lon="-38.5089569"/>
+ <node id="4294841940" visible="true" version="1" changeset="40634571" timestamp="2016-07-10T17:23:53Z" user="victorquaresma" uid="2507488" lat="-3.7336998" lon="-38.5089471"/>
+ <node id="4294841941" visible="true" version="1" changeset="40634571" timestamp="2016-07-10T17:23:53Z" user="victorquaresma" uid="2507488" lat="-3.7336692" lon="-38.5090371"/>
+ <node id="4294841942" visible="true" version="1" changeset="40634571" timestamp="2016-07-10T17:23:53Z" user="victorquaresma" uid="2507488" lat="-3.7336965" lon="-38.5090464"/>
+ <node id="4294841943" visible="true" version="1" changeset="40634571" timestamp="2016-07-10T17:23:53Z" user="victorquaresma" uid="2507488" lat="-3.7336750" lon="-38.5091096"/>
+ <node id="4294841944" visible="true" version="1" changeset="40634571" timestamp="2016-07-10T17:23:53Z" user="victorquaresma" uid="2507488" lat="-3.7336949" lon="-38.5091164"/>
+ <node id="4294841945" visible="true" version="1" changeset="40634571" timestamp="2016-07-10T17:23:53Z" user="victorquaresma" uid="2507488" lat="-3.7336847" lon="-38.5091464"/>
+ <node id="4294841946" visible="true" version="1" changeset="40634571" timestamp="2016-07-10T17:23:54Z" user="victorquaresma" uid="2507488" lat="-3.7337456" lon="-38.5091673"/>
+ <node id="4294841947" visible="true" version="1" changeset="40634571" timestamp="2016-07-10T17:23:54Z" user="victorquaresma" uid="2507488" lat="-3.7337618" lon="-38.5091198"/>
+ <node id="4294841948" visible="true" version="1" changeset="40634571" timestamp="2016-07-10T17:23:54Z" user="victorquaresma" uid="2507488" lat="-3.7337910" lon="-38.5091298"/>
+ <node id="4294841949" visible="true" version="1" changeset="40634571" timestamp="2016-07-10T17:23:54Z" user="victorquaresma" uid="2507488" lat="-3.7338069" lon="-38.5090831"/>
+ <node id="4294841950" visible="true" version="1" changeset="40634571" timestamp="2016-07-10T17:23:54Z" user="victorquaresma" uid="2507488" lat="-3.7338234" lon="-38.5090887"/>
+ <node id="4294841951" visible="true" version="1" changeset="40634571" timestamp="2016-07-10T17:23:54Z" user="victorquaresma" uid="2507488" lat="-3.7338515" lon="-38.5090060"/>
+ <node id="4294841952" visible="true" version="1" changeset="40634571" timestamp="2016-07-10T17:23:54Z" user="victorquaresma" uid="2507488" lat="-3.7338339" lon="-38.5090000"/>
+ <node id="4294841953" visible="true" version="1" changeset="40634571" timestamp="2016-07-10T17:23:54Z" user="victorquaresma" uid="2507488" lat="-3.7338899" lon="-38.5088353"/>
+ <node id="4386374872" visible="true" version="1" changeset="41942859" timestamp="2016-09-05T22:33:22Z" user="Felipe Alves" uid="3045331" lat="-3.7332134" lon="-38.5080290"/>
+ <node id="4386374873" visible="true" version="2" changeset="61204601" timestamp="2018-07-30T18:35:08Z" user="matheusgomesms" uid="3781248" lat="-3.7336317" lon="-38.5081555"/>
+ <node id="4386374874" visible="true" version="1" changeset="41942859" timestamp="2016-09-05T22:33:22Z" user="Felipe Alves" uid="3045331" lat="-3.7336563" lon="-38.5080751"/>
+ <node id="4386374876" visible="true" version="3" changeset="121251818" timestamp="2022-05-20T16:05:25Z" user="Felipe Alves" uid="3045331" lat="-3.7342233" lon="-38.5079627"/>
+ <node id="4386374877" visible="true" version="2" changeset="61204601" timestamp="2018-07-30T18:35:07Z" user="matheusgomesms" uid="3781248" lat="-3.7337649" lon="-38.5078273"/>
+ <node id="4386374878" visible="true" version="2" changeset="61204601" timestamp="2018-07-30T18:35:07Z" user="matheusgomesms" uid="3781248" lat="-3.7337183" lon="-38.5079863"/>
+ <node id="4386374879" visible="true" version="1" changeset="41942859" timestamp="2016-09-05T22:33:22Z" user="Felipe Alves" uid="3045331" lat="-3.7333572" lon="-38.5078761"/>
+ <node id="4386374880" visible="true" version="1" changeset="41942859" timestamp="2016-09-05T22:33:22Z" user="Felipe Alves" uid="3045331" lat="-3.7333139" lon="-38.5080171"/>
+ <node id="4386374881" visible="true" version="1" changeset="41942859" timestamp="2016-09-05T22:33:22Z" user="Felipe Alves" uid="3045331" lat="-3.7332254" lon="-38.5079898"/>
+ <node id="4454128701" visible="true" version="3" changeset="93470701" timestamp="2020-11-03T09:33:44Z" user="GasWorksPark" uid="10652946" lat="-3.7352929" lon="-38.5084482"/>
+ <node id="4454128702" visible="true" version="4" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7363095" lon="-38.5087640"/>
+ <node id="4938911394" visible="true" version="2" changeset="121251818" timestamp="2022-05-20T16:05:25Z" user="Felipe Alves" uid="3045331" lat="-3.7331871" lon="-38.5079624">
+  <tag k="access" v="permissive"/>
+  <tag k="amenity" v="bicycle_parking"/>
+  <tag k="bicycle_parking" v="stands"/>
+  <tag k="capacity" v="8"/>
+  <tag k="covered" v="no"/>
+  <tag k="operator" v="Floresta Bar"/>
+ </node>
+ <node id="4983804285" visible="true" version="1" changeset="50442908" timestamp="2017-07-20T21:24:22Z" user="Felipe Alves" uid="3045331" lat="-3.7346324" lon="-38.5103754">
+  <tag k="addr:housenumber" v="100 - loja 4"/>
+  <tag k="addr:street" v="Rua Torres Câmara"/>
+  <tag k="email" v="kerobike2017@gmail.com"/>
+  <tag k="name" v="Kerobike"/>
+  <tag k="phone" v="+55 85 3067-4668 / 98774-8040"/>
+  <tag k="service:bicycle:repair" v="yes"/>
+  <tag k="service:bicycle:retail" v="yes"/>
+  <tag k="shop" v="bicycle"/>
+ </node>
+ <node id="4988219023" visible="true" version="2" changeset="61204601" timestamp="2018-07-30T18:35:07Z" user="matheusgomesms" uid="3781248" lat="-3.7334237" lon="-38.5075350">
+  <tag k="addr:city" v="Fortaleza"/>
+  <tag k="addr:housenumber" v="1840"/>
+  <tag k="addr:postcode" v="60150-161"/>
+  <tag k="addr:street" v="Avenida Santos Dumont"/>
+  <tag k="addr:suburb" v="Aldeota"/>
+  <tag k="name" v="Beleza &amp; Cia"/>
+  <tag k="opening_hours" v="Mo-Sa 08:00-19:00"/>
+  <tag k="phone" v="+55 85 3248 1545"/>
+  <tag k="shop" v="hairdresser"/>
+ </node>
+ <node id="5310292092" visible="true" version="1" changeset="55010640" timestamp="2017-12-29T14:03:35Z" user="robertkupis" uid="6306197" lat="-3.7349087" lon="-38.5101274"/>
+ <node id="5310292093" visible="true" version="1" changeset="55010640" timestamp="2017-12-29T14:03:35Z" user="robertkupis" uid="6306197" lat="-3.7347508" lon="-38.5100791"/>
+ <node id="5310292094" visible="true" version="1" changeset="55010640" timestamp="2017-12-29T14:03:35Z" user="robertkupis" uid="6306197" lat="-3.7347933" lon="-38.5099393"/>
+ <node id="5310292095" visible="true" version="1" changeset="55010640" timestamp="2017-12-29T14:03:35Z" user="robertkupis" uid="6306197" lat="-3.7349512" lon="-38.5099876"/>
+ <node id="5347752049" visible="true" version="3" changeset="87028401" timestamp="2020-06-23T10:26:52Z" user="matheusgomesms" uid="3781248" lat="-3.7375629" lon="-38.5122584">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="5567375028" visible="true" version="2" changeset="106219024" timestamp="2021-06-11T14:05:38Z" user="matheusgomesms" uid="3781248" lat="-3.7347469" lon="-38.5091619">
+  <tag k="addr:city" v="Fortaleza"/>
+  <tag k="addr:housenumber" v="1386"/>
+  <tag k="addr:postcode" v="60115-221"/>
+  <tag k="addr:street" v="Avenida Rui Barbosa"/>
+  <tag k="addr:suburb" v="Aldeota"/>
+  <tag k="amenity" v="fast_food"/>
+  <tag k="cuisine" v="burger"/>
+  <tag k="drive_through" v="no"/>
+  <tag k="name" v="Donadel Burger Shop"/>
+  <tag k="phone" v="+55 85 3085 4929"/>
+ </node>
+ <node id="5610491696" visible="true" version="2" changeset="106219024" timestamp="2021-06-11T14:05:38Z" user="matheusgomesms" uid="3781248" lat="-3.7348003" lon="-38.5089043"/>
+ <node id="5610491697" visible="true" version="2" changeset="106219024" timestamp="2021-06-11T14:05:38Z" user="matheusgomesms" uid="3781248" lat="-3.7347609" lon="-38.5088928"/>
+ <node id="5610491698" visible="true" version="2" changeset="106219024" timestamp="2021-06-11T14:05:38Z" user="matheusgomesms" uid="3781248" lat="-3.7347736" lon="-38.5088493"/>
+ <node id="5610491699" visible="true" version="2" changeset="106219024" timestamp="2021-06-11T14:05:38Z" user="matheusgomesms" uid="3781248" lat="-3.7347432" lon="-38.5088404"/>
+ <node id="5610491700" visible="true" version="2" changeset="106219024" timestamp="2021-06-11T14:05:38Z" user="matheusgomesms" uid="3781248" lat="-3.7347582" lon="-38.5087885"/>
+ <node id="5610491701" visible="true" version="2" changeset="106219024" timestamp="2021-06-11T14:05:38Z" user="matheusgomesms" uid="3781248" lat="-3.7348281" lon="-38.5088089"/>
+ <node id="5796688534" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:05Z" user="matheusgomesms" uid="3781248" lat="-3.7341396" lon="-38.5082173"/>
+ <node id="5796688536" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:05Z" user="matheusgomesms" uid="3781248" lat="-3.7335660" lon="-38.5075381"/>
+ <node id="5796688537" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:05Z" user="matheusgomesms" uid="3781248" lat="-3.7335377" lon="-38.5076339"/>
+ <node id="5796688538" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:05Z" user="matheusgomesms" uid="3781248" lat="-3.7333419" lon="-38.5075691"/>
+ <node id="5796688539" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:05Z" user="matheusgomesms" uid="3781248" lat="-3.7333725" lon="-38.5074769"/>
+ <node id="5796688540" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:05Z" user="matheusgomesms" uid="3781248" lat="-3.7336006" lon="-38.5075576"/>
+ <node id="5796688541" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:05Z" user="matheusgomesms" uid="3781248" lat="-3.7335642" lon="-38.5076728"/>
+ <node id="5796688542" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:05Z" user="matheusgomesms" uid="3781248" lat="-3.7336197" lon="-38.5076901"/>
+ <node id="5796688543" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:05Z" user="matheusgomesms" uid="3781248" lat="-3.7336025" lon="-38.5077438"/>
+ <node id="5796688544" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:05Z" user="matheusgomesms" uid="3781248" lat="-3.7336964" lon="-38.5077726"/>
+ <node id="5796688545" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:05Z" user="matheusgomesms" uid="3781248" lat="-3.7337098" lon="-38.5077208"/>
+ <node id="5796688546" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:05Z" user="matheusgomesms" uid="3781248" lat="-3.7337634" lon="-38.5077381"/>
+ <node id="5796688547" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:05Z" user="matheusgomesms" uid="3781248" lat="-3.7337998" lon="-38.5076171"/>
+ <node id="5796688548" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:05Z" user="matheusgomesms" uid="3781248" lat="-3.7335723" lon="-38.5075166"/>
+ <node id="5796688549" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:05Z" user="matheusgomesms" uid="3781248" lat="-3.7338310" lon="-38.5075934"/>
+ <node id="5796688550" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:05Z" user="matheusgomesms" uid="3781248" lat="-3.7335038" lon="-38.5077488"/>
+ <node id="5796689575" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:06Z" user="matheusgomesms" uid="3781248" lat="-3.7336797" lon="-38.5085876"/>
+ <node id="5796689576" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:06Z" user="matheusgomesms" uid="3781248" lat="-3.7337446" lon="-38.5083807"/>
+ <node id="5796689577" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:06Z" user="matheusgomesms" uid="3781248" lat="-3.7335671" lon="-38.5083258"/>
+ <node id="5796689578" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:06Z" user="matheusgomesms" uid="3781248" lat="-3.7335036" lon="-38.5085341"/>
+ <node id="5796689579" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:06Z" user="matheusgomesms" uid="3781248" lat="-3.7338283" lon="-38.5081261"/>
+ <node id="5796689580" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:06Z" user="matheusgomesms" uid="3781248" lat="-3.7337605" lon="-38.5083489"/>
+ <node id="5796689581" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:06Z" user="matheusgomesms" uid="3781248" lat="-3.7335887" lon="-38.5082954"/>
+ <node id="5859498900" visible="true" version="2" changeset="93465603" timestamp="2020-11-03T08:19:27Z" user="GasWorksPark" uid="10652946" lat="-3.7318193" lon="-38.5115628">
+  <tag k="direction" v="forward"/>
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="5859498901" visible="true" version="3" changeset="82838265" timestamp="2020-03-30T18:01:31Z" user="matheusgomesms" uid="3781248" lat="-3.7325194" lon="-38.5094517">
+  <tag k="direction" v="forward"/>
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="5859498902" visible="true" version="5" changeset="91563254" timestamp="2020-09-26T20:31:39Z" user="matheusgomesms" uid="3781248" lat="-3.7330226" lon="-38.5084675">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="5859498903" visible="true" version="3" changeset="82179189" timestamp="2020-03-13T19:54:17Z" user="matheusgomesms" uid="3781248" lat="-3.7329156" lon="-38.5085110">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="5859498904" visible="true" version="5" changeset="91563254" timestamp="2020-09-26T20:31:39Z" user="matheusgomesms" uid="3781248" lat="-3.7328767" lon="-38.5084178">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="5859498905" visible="true" version="3" changeset="112762494" timestamp="2021-10-20T20:40:58Z" user="mapitero" uid="12653083" lat="-3.7329037" lon="-38.5085483">
+  <tag k="highway" v="speed_camera"/>
+  <tag k="maxspeed" v="50"/>
+ </node>
+ <node id="5859498906" visible="true" version="4" changeset="91563254" timestamp="2020-09-26T20:31:39Z" user="matheusgomesms" uid="3781248" lat="-3.7329622" lon="-38.5083662">
+  <tag k="crossing" v="marked"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="5859498907" visible="true" version="2" changeset="93470701" timestamp="2020-11-03T09:33:44Z" user="GasWorksPark" uid="10652946" lat="-3.7333536" lon="-38.5073841">
+  <tag k="direction" v="forward"/>
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="6148457574" visible="true" version="1" changeset="65623711" timestamp="2018-12-19T21:17:07Z" user="Felipe Alves" uid="3045331" lat="-3.7377768" lon="-38.5087790"/>
+ <node id="6148457575" visible="true" version="2" changeset="89782528" timestamp="2020-08-22T14:07:13Z" user="matheusgomesms" uid="3781248" lat="-3.7372959" lon="-38.5086212"/>
+ <node id="6173126697" visible="true" version="3" changeset="113233205" timestamp="2021-11-01T12:07:47Z" user="Felipe Alves" uid="3045331" lat="-3.7296148" lon="-38.5108759"/>
+ <node id="6179962066" visible="true" version="2" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7345878" lon="-38.5124572"/>
+ <node id="6179962067" visible="true" version="4" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7349156" lon="-38.5114240"/>
+ <node id="6210800585" visible="true" version="2" changeset="82179189" timestamp="2020-03-13T19:54:17Z" user="matheusgomesms" uid="3781248" lat="-3.7315000" lon="-38.5129183"/>
+ <node id="6210800586" visible="true" version="2" changeset="82179189" timestamp="2020-03-13T19:54:17Z" user="matheusgomesms" uid="3781248" lat="-3.7314837" lon="-38.5129690"/>
+ <node id="6444244691" visible="true" version="1" changeset="69824021" timestamp="2019-05-03T00:55:20Z" user="matheusgomesms" uid="3781248" lat="-3.7353076" lon="-38.5077566"/>
+ <node id="6444244692" visible="true" version="1" changeset="69824021" timestamp="2019-05-03T00:55:20Z" user="matheusgomesms" uid="3781248" lat="-3.7352863" lon="-38.5078235"/>
+ <node id="6444244693" visible="true" version="1" changeset="69824021" timestamp="2019-05-03T00:55:20Z" user="matheusgomesms" uid="3781248" lat="-3.7351663" lon="-38.5077851"/>
+ <node id="6444244694" visible="true" version="1" changeset="69824021" timestamp="2019-05-03T00:55:20Z" user="matheusgomesms" uid="3781248" lat="-3.7351876" lon="-38.5077182"/>
+ <node id="6444244695" visible="true" version="1" changeset="69824021" timestamp="2019-05-03T00:55:20Z" user="matheusgomesms" uid="3781248" lat="-3.7352083" lon="-38.5075994"/>
+ <node id="6444244696" visible="true" version="1" changeset="69824021" timestamp="2019-05-03T00:55:20Z" user="matheusgomesms" uid="3781248" lat="-3.7351411" lon="-38.5075785"/>
+ <node id="6444244697" visible="true" version="1" changeset="69824021" timestamp="2019-05-03T00:55:20Z" user="matheusgomesms" uid="3781248" lat="-3.7350540" lon="-38.5078595"/>
+ <node id="6444244698" visible="true" version="1" changeset="69824021" timestamp="2019-05-03T00:55:20Z" user="matheusgomesms" uid="3781248" lat="-3.7353688" lon="-38.5076490"/>
+ <node id="6444244699" visible="true" version="1" changeset="69824021" timestamp="2019-05-03T00:55:20Z" user="matheusgomesms" uid="3781248" lat="-3.7352820" lon="-38.5079315"/>
+ <node id="6444244701" visible="true" version="1" changeset="69824021" timestamp="2019-05-03T00:55:20Z" user="matheusgomesms" uid="3781248" lat="-3.7351212" lon="-38.5078804"/>
+ <node id="6444244702" visible="true" version="3" changeset="113923495" timestamp="2021-11-18T02:12:09Z" user="matheusgomesms" uid="3781248" lat="-3.7351105" lon="-38.5077994">
+  <tag k="addr:city" v="Fortaleza"/>
+  <tag k="addr:housenumber" v="1241"/>
+  <tag k="addr:postcode" v="60115-281"/>
+  <tag k="addr:street" v="Rua Doutor José Lourenço"/>
+  <tag k="addr:suburb" v="Aldeota"/>
+  <tag k="name" v="Head Machine"/>
+  <tag k="opening_hours" v="Mo-Sa 08:00-20:00"/>
+  <tag k="shop" v="convenience"/>
+ </node>
+ <node id="6444244704" visible="true" version="1" changeset="69824021" timestamp="2019-05-03T00:55:21Z" user="matheusgomesms" uid="3781248" lat="-3.7353355" lon="-38.5076493">
+  <tag k="amenity" v="compressed_air"/>
+  <tag k="fee" v="no"/>
+ </node>
+ <node id="6622561556" visible="true" version="2" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7331450" lon="-38.5091872"/>
+ <node id="6622561557" visible="true" version="2" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7336510" lon="-38.5093526"/>
+ <node id="6622561558" visible="true" version="2" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7335683" lon="-38.5096117"/>
+ <node id="6796047367" visible="true" version="2" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7323176" lon="-38.5080731"/>
+ <node id="6796047368" visible="true" version="2" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7323982" lon="-38.5078181"/>
+ <node id="6796047369" visible="true" version="2" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7329816" lon="-38.5080031"/>
+ <node id="6796047370" visible="true" version="2" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7329010" lon="-38.5082583"/>
+ <node id="6804161958" visible="true" version="2" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7341368" lon="-38.5117482"/>
+ <node id="6804161959" visible="true" version="2" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7344306" lon="-38.5118293"/>
+ <node id="6804161960" visible="true" version="2" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7344899" lon="-38.5116478"/>
+ <node id="6804161961" visible="true" version="2" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7341993" lon="-38.5115578"/>
+ <node id="6828923431" visible="true" version="1" changeset="74983001" timestamp="2019-09-26T22:31:06Z" user="gcp87" uid="10120506" lat="-3.7361063" lon="-38.5081869"/>
+ <node id="6828923432" visible="true" version="1" changeset="74983001" timestamp="2019-09-26T22:31:06Z" user="gcp87" uid="10120506" lat="-3.7361832" lon="-38.5079511"/>
+ <node id="6828923433" visible="true" version="1" changeset="74983001" timestamp="2019-09-26T22:31:06Z" user="gcp87" uid="10120506" lat="-3.7358663" lon="-38.5078437"/>
+ <node id="6828923434" visible="true" version="1" changeset="74983001" timestamp="2019-09-26T22:31:06Z" user="gcp87" uid="10120506" lat="-3.7357871" lon="-38.5080912"/>
+ <node id="6898764739" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7329243" lon="-38.5083508"/>
+ <node id="6898764740" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7322667" lon="-38.5081371"/>
+ <node id="6898764741" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7323823" lon="-38.5077736"/>
+ <node id="6898764742" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7330432" lon="-38.5079785"/>
+ <node id="6898764744" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7332279" lon="-38.5074006"/>
+ <node id="6898764745" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7327487" lon="-38.5072493"/>
+ <node id="6898764746" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7326509" lon="-38.5075576"/>
+ <node id="6898764747" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7324704" lon="-38.5075001"/>
+ <node id="6898764748" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7331241" lon="-38.5077298"/>
+ <node id="6898764749" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7328390" lon="-38.5076396"/>
+ <node id="6898764750" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7329429" lon="-38.5073103"/>
+ <node id="6898764757" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7324767" lon="-38.5076977"/>
+ <node id="6898764758" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7325086" lon="-38.5075988"/>
+ <node id="6898764759" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7330212" lon="-38.5077648"/>
+ <node id="6898764760" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7329893" lon="-38.5078638"/>
+ <node id="6898764761" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7330008" lon="-38.5078547"/>
+ <node id="6898764762" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7330169" lon="-38.5078324"/>
+ <node id="6898764763" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7330235" lon="-38.5078197"/>
+ <node id="6898764764" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7330273" lon="-38.5078041"/>
+ <node id="6898764765" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7330261" lon="-38.5077758"/>
+ <node id="6898764766" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7330271" lon="-38.5077886"/>
+ <node id="6898764767" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7330102" lon="-38.5078438"/>
+ <node id="6898764768" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7328545" lon="-38.5072828">
+  <tag k="addr:city" v="Fortaleza"/>
+  <tag k="addr:housenumber" v="972"/>
+  <tag k="addr:postcode" v="60115-281"/>
+  <tag k="addr:street" v="Rua Doutor José Lourenço"/>
+  <tag k="addr:suburb" v="Aldeota"/>
+ </node>
+ <node id="6898764769" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7331149" lon="-38.5077021"/>
+ <node id="6898764770" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7331458" lon="-38.5076019"/>
+ <node id="6898764771" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7329636" lon="-38.5075455"/>
+ <node id="6898764772" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7329327" lon="-38.5076457"/>
+ <node id="6898764773" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7331554" lon="-38.5075634"/>
+ <node id="6898764774" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7332012" lon="-38.5074197"/>
+ <node id="6898764775" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7330984" lon="-38.5073867"/>
+ <node id="6898764776" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7330525" lon="-38.5075305"/>
+ <node id="6898764777" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7330380" lon="-38.5075268"/>
+ <node id="6898764778" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7330849" lon="-38.5073807"/>
+ <node id="6898764779" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7329107" lon="-38.5074857"/>
+ <node id="6898764780" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7329576" lon="-38.5073396"/>
+ <node id="6898764782" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7324200" lon="-38.5076590"/>
+ <node id="6898868227" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7333870" lon="-38.5086357"/>
+ <node id="6898868228" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7332352" lon="-38.5091022"/>
+ <node id="6898868229" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7328492" lon="-38.5089760"/>
+ <node id="6898868230" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7328828" lon="-38.5088593"/>
+ <node id="6898868231" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7332013" lon="-38.5089634"/>
+ <node id="6898868232" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7332712" lon="-38.5087485"/>
+ <node id="6898868233" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7329522" lon="-38.5086444"/>
+ <node id="6898868234" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7329955" lon="-38.5085104"/>
+ <node id="6898868235" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7337307" lon="-38.5087457"/>
+ <node id="6898868236" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7335781" lon="-38.5092144"/>
+ <node id="6898868237" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7337909" lon="-38.5092840"/>
+ <node id="6898868238" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7339405" lon="-38.5088129"/>
+ <node id="6898868239" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7326938" lon="-38.5094532"/>
+ <node id="6898868240" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7336356" lon="-38.5097610"/>
+ <node id="6898868241" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7330603" lon="-38.5094508"/>
+ <node id="6898868242" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7332158" lon="-38.5095004"/>
+ <node id="6898868243" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7333815" lon="-38.5095518"/>
+ <node id="6898868244" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7334070" lon="-38.5094717"/>
+ <node id="6898868245" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7332419" lon="-38.5094188"/>
+ <node id="6898868246" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7330190" lon="-38.5091460"/>
+ <node id="6898868247" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7329867" lon="-38.5091689"/>
+ <node id="6898868248" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7329005" lon="-38.5094340"/>
+ <node id="6898868249" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7329205" lon="-38.5094405"/>
+ <node id="6898868250" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7329116" lon="-38.5094677"/>
+ <node id="6898868251" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7336089" lon="-38.5096957"/>
+ <node id="6898868252" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248" lat="-3.7337139" lon="-38.5093732"/>
+ <node id="6898868253" visible="true" version="2" changeset="123869777" timestamp="2022-07-20T23:50:15Z" user="PlayzinhoAgro" uid="10460642" lat="-3.7329525" lon="-38.5094642">
+  <tag k="addr:city" v="Fortaleza"/>
+  <tag k="addr:housenumber" v="1153"/>
+  <tag k="addr:postcode" v="60115-191"/>
+  <tag k="addr:street" v="Rua Monsenhor Bruno"/>
+  <tag k="addr:suburb" v="Aldeota"/>
+  <tag k="brand" v="Selfit"/>
+  <tag k="brand:wikidata" v="Q100274066"/>
+  <tag k="fee" v="yes"/>
+  <tag k="leisure" v="fitness_centre"/>
+  <tag k="name" v="Selfit"/>
+  <tag k="opening_hours" v="Mo-Fr 05:30-23:00; Sa 08:00-18:00; Su 08:00-14:00"/>
+  <tag k="website" v="https://www.selfitacademias.com.br/unidades/scopa-platinum"/>
+ </node>
+ <node id="7118244675" visible="true" version="1" changeset="79359868" timestamp="2020-01-08T23:54:57Z" user="matheusgomesms" uid="3781248" lat="-3.7354782" lon="-38.5072895"/>
+ <node id="7118244676" visible="true" version="1" changeset="79359868" timestamp="2020-01-08T23:54:57Z" user="matheusgomesms" uid="3781248" lat="-3.7352631" lon="-38.5072360"/>
+ <node id="7118244677" visible="true" version="1" changeset="79359868" timestamp="2020-01-08T23:54:57Z" user="matheusgomesms" uid="3781248" lat="-3.7352399" lon="-38.5073097"/>
+ <node id="7118244678" visible="true" version="1" changeset="79359868" timestamp="2020-01-08T23:54:57Z" user="matheusgomesms" uid="3781248" lat="-3.7353034" lon="-38.5074002"/>
+ <node id="7118244679" visible="true" version="1" changeset="79359868" timestamp="2020-01-08T23:54:57Z" user="matheusgomesms" uid="3781248" lat="-3.7354280" lon="-38.5074398"/>
+ <node id="7118244680" visible="true" version="1" changeset="79359868" timestamp="2020-01-08T23:54:57Z" user="matheusgomesms" uid="3781248" lat="-3.7354469" lon="-38.5072817"/>
+ <node id="7118260387" visible="true" version="1" changeset="79359868" timestamp="2020-01-08T23:54:57Z" user="matheusgomesms" uid="3781248" lat="-3.7352205" lon="-38.5073728"/>
+ <node id="7183273390" visible="true" version="2" changeset="100229627" timestamp="2021-03-01T20:37:39Z" user="TerraFormerJake" uid="12587545" lat="-3.7323543" lon="-38.5145631"/>
+ <node id="7385034705" visible="true" version="2" changeset="100229627" timestamp="2021-03-01T20:37:39Z" user="TerraFormerJake" uid="12587545" lat="-3.7318379" lon="-38.5162052">
+  <tag k="direction" v="forward"/>
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="7833960385" visible="true" version="4" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7353925" lon="-38.5115720"/>
+ <node id="7835071022" visible="true" version="2" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7351141" lon="-38.5125809">
+  <tag k="direction" v="forward"/>
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="7835071023" visible="true" version="2" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7354584" lon="-38.5113738"/>
+ <node id="7835071024" visible="true" version="3" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7354089" lon="-38.5115213">
+  <tag k="direction" v="forward"/>
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="7850579264" visible="true" version="2" changeset="93470701" timestamp="2020-11-03T09:33:44Z" user="GasWorksPark" uid="10652946" lat="-3.7328531" lon="-38.5118975"/>
+ <node id="8421751627" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858" lat="-3.7331734" lon="-38.5107243"/>
+ <node id="8421751628" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858" lat="-3.7331988" lon="-38.5106343"/>
+ <node id="8421751629" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858" lat="-3.7331635" lon="-38.5106243"/>
+ <node id="8421751630" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858" lat="-3.7331819" lon="-38.5105575"/>
+ <node id="8421751631" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858" lat="-3.7332172" lon="-38.5105673"/>
+ <node id="8421751632" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858" lat="-3.7332454" lon="-38.5104652"/>
+ <node id="8421751633" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858" lat="-3.7333524" lon="-38.5104949"/>
+ <node id="8421751634" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858" lat="-3.7333416" lon="-38.5105339"/>
+ <node id="8421751635" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858" lat="-3.7333627" lon="-38.5105398"/>
+ <node id="8421751636" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858" lat="-3.7333553" lon="-38.5105666"/>
+ <node id="8421751637" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858" lat="-3.7333331" lon="-38.5105604"/>
+ <node id="8421751638" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858" lat="-3.7333202" lon="-38.5106068"/>
+ <node id="8421751639" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858" lat="-3.7333431" lon="-38.5106131"/>
+ <node id="8421751640" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858" lat="-3.7333366" lon="-38.5106367"/>
+ <node id="8421751641" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858" lat="-3.7333195" lon="-38.5106320"/>
+ <node id="8421751642" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858" lat="-3.7333146" lon="-38.5106496"/>
+ <node id="8421751643" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858" lat="-3.7333351" lon="-38.5106553"/>
+ <node id="8421751644" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858" lat="-3.7333204" lon="-38.5107085"/>
+ <node id="8421751645" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858" lat="-3.7332982" lon="-38.5107023"/>
+ <node id="8421751646" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858" lat="-3.7332818" lon="-38.5107614"/>
+ <node id="8421751647" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858" lat="-3.7331165" lon="-38.5107137"/>
+ <node id="8421751648" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858" lat="-3.7329821" lon="-38.5106703"/>
+ <node id="8421751649" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858" lat="-3.7330664" lon="-38.5104081"/>
+ <node id="8421751650" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858" lat="-3.7332008" lon="-38.5104515"/>
+ <node id="8479381985" visible="true" version="2" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7339317" lon="-38.5123441"/>
+ <node id="8824801793" visible="true" version="1" changeset="106219024" timestamp="2021-06-11T14:05:38Z" user="matheusgomesms" uid="3781248" lat="-3.7348231" lon="-38.5088261"/>
+ <node id="8824801794" visible="true" version="1" changeset="106219024" timestamp="2021-06-11T14:05:38Z" user="matheusgomesms" uid="3781248" lat="-3.7349690" lon="-38.5088694"/>
+ <node id="8824801795" visible="true" version="1" changeset="106219024" timestamp="2021-06-11T14:05:38Z" user="matheusgomesms" uid="3781248" lat="-3.7349295" lon="-38.5089961"/>
+ <node id="8824801796" visible="true" version="1" changeset="106219024" timestamp="2021-06-11T14:05:38Z" user="matheusgomesms" uid="3781248" lat="-3.7349201" lon="-38.5089995"/>
+ <node id="8824801797" visible="true" version="1" changeset="106219024" timestamp="2021-06-11T14:05:38Z" user="matheusgomesms" uid="3781248" lat="-3.7347833" lon="-38.5089596"/>
+ <node id="8824801798" visible="true" version="1" changeset="106219024" timestamp="2021-06-11T14:05:38Z" user="matheusgomesms" uid="3781248" lat="-3.7348774" lon="-38.5092066"/>
+ <node id="8824801799" visible="true" version="1" changeset="106219024" timestamp="2021-06-11T14:05:38Z" user="matheusgomesms" uid="3781248" lat="-3.7348267" lon="-38.5091904"/>
+ <node id="8824801800" visible="true" version="1" changeset="106219024" timestamp="2021-06-11T14:05:38Z" user="matheusgomesms" uid="3781248" lat="-3.7347748" lon="-38.5093462"/>
+ <node id="8824801801" visible="true" version="1" changeset="106219024" timestamp="2021-06-11T14:05:38Z" user="matheusgomesms" uid="3781248" lat="-3.7348151" lon="-38.5094041"/>
+ <node id="8928847176" visible="true" version="1" changeset="108163340" timestamp="2021-07-17T14:54:18Z" user="matheusgomesms" uid="3781248" lat="-3.7348099" lon="-38.5096347">
+  <tag k="direction" v="forward"/>
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="8928847177" visible="true" version="1" changeset="108163340" timestamp="2021-07-17T14:54:18Z" user="matheusgomesms" uid="3781248" lat="-3.7347401" lon="-38.5094723">
+  <tag k="addr:city" v="Fortaleza"/>
+  <tag k="addr:housenumber" v="161"/>
+  <tag k="addr:postcode" v="60150-060"/>
+  <tag k="addr:street" v="Rua Torres Câmara"/>
+  <tag k="addr:suburb" v="Aldeota"/>
+  <tag k="craft" v="glaziery"/>
+  <tag k="name" v="Ki Vidros"/>
+  <tag k="opening_hours" v="Mo-Fr 08:00-18:00, Sa 08:00-12:00"/>
+  <tag k="phone" v="+55 85 3224 0809"/>
+ </node>
+ <node id="8986661911" visible="true" version="1" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7354498" lon="-38.5115902"/>
+ <node id="8986661912" visible="true" version="1" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132" lat="-3.7339452" lon="-38.5121581"/>
+ <node id="9023496576" visible="true" version="1" changeset="110004354" timestamp="2021-08-20T19:54:45Z" user="matheusgomesms" uid="3781248" lat="-3.7333353" lon="-38.5108528">
+  <tag k="direction" v="forward"/>
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="9023496577" visible="true" version="1" changeset="110004354" timestamp="2021-08-20T19:54:45Z" user="matheusgomesms" uid="3781248" lat="-3.7333572" lon="-38.5109094"/>
+ <node id="9411920634" visible="true" version="1" changeset="116051659" timestamp="2022-01-12T06:22:44Z" user="fornine_" uid="12603107" lat="-3.7312176" lon="-38.5113788"/>
+ <node id="9450509753" visible="true" version="2" changeset="118870070" timestamp="2022-03-24T15:33:48Z" user="lovelyfurball88" uid="12424494" lat="-3.7333701" lon="-38.5094094">
+  <tag k="addr:city" v="Fortaleza"/>
+  <tag k="addr:housenumber" v="1153"/>
+  <tag k="addr:postcode" v="60115170"/>
+  <tag k="addr:street" v="Rua Monsenhor Bruno"/>
+  <tag k="addr:suburb" v="Aldeota"/>
+  <tag k="name" v="Dourado Construções e Incorporações"/>
+  <tag k="office" v="estate_agent"/>
+  <tag k="opening_hours" v="Mo-Fr 08:00-17:00"/>
+  <tag k="phone" v="+55 (85) 3104-0203"/>
+  <tag k="website" v="https://douradoincorporacoes.com/"/>
+ </node>
+ <node id="9757724433" visible="true" version="1" changeset="121251818" timestamp="2022-05-20T16:05:25Z" user="Felipe Alves" uid="3045331" lat="-3.7331405" lon="-38.5083774"/>
+ <node id="9757724434" visible="true" version="1" changeset="121251818" timestamp="2022-05-20T16:05:25Z" user="Felipe Alves" uid="3045331" lat="-3.7333408" lon="-38.5084434"/>
+ <node id="9757724435" visible="true" version="1" changeset="121251818" timestamp="2022-05-20T16:05:25Z" user="Felipe Alves" uid="3045331" lat="-3.7334200" lon="-38.5082024"/>
+ <node id="9757724436" visible="true" version="1" changeset="121251818" timestamp="2022-05-20T16:05:25Z" user="Felipe Alves" uid="3045331" lat="-3.7332196" lon="-38.5081363"/>
+ <way id="39822587" visible="true" version="25" changeset="116051659" timestamp="2022-01-12T06:22:44Z" user="fornine_" uid="12603107">
+  <nd ref="477371681"/>
+  <nd ref="6173126697"/>
+  <nd ref="3225967978"/>
+  <nd ref="477371706"/>
+  <nd ref="9411920634"/>
+  <nd ref="5859498900"/>
+  <nd ref="477371687"/>
+  <nd ref="7850579264"/>
+  <nd ref="482794583"/>
+  <nd ref="477466813"/>
+  <nd ref="6179962066"/>
+  <nd ref="482168708"/>
+  <nd ref="626198771"/>
+  <nd ref="476760477"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="Rua Barão de Aracati"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="postal_code" v="60115-081"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="40068106" visible="true" version="9" changeset="89782637" timestamp="2020-08-22T14:11:28Z" user="matheusgomesms" uid="3781248">
+  <nd ref="482168692"/>
+  <nd ref="3215233241"/>
+  <nd ref="482168695"/>
+  <nd ref="4454128702"/>
+  <nd ref="482168698"/>
+  <nd ref="3372672419"/>
+  <nd ref="482168701"/>
+  <nd ref="7835071023"/>
+  <tag k="alt_name" v="Rua Affonso Celso"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lanes" v="1"/>
+  <tag k="name" v="Rua Afonso Celso"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="postal_code" v="60140-190"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="40115152" visible="true" version="9" changeset="110004354" timestamp="2021-08-20T19:54:45Z" user="matheusgomesms" uid="3781248">
+  <nd ref="482794582"/>
+  <nd ref="482794583"/>
+  <nd ref="482794584"/>
+  <nd ref="482794585"/>
+  <nd ref="7183273390"/>
+  <nd ref="482794586"/>
+  <nd ref="7385034705"/>
+  <nd ref="616542017"/>
+  <tag k="alt_name" v="Rua Padre Luiz Figueira"/>
+  <tag k="cycleway:right" v="lane"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua Padre Luís Figueira"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="40115194" visible="true" version="6" changeset="110004354" timestamp="2021-08-20T19:54:45Z" user="matheusgomesms" uid="3781248">
+  <nd ref="482794580"/>
+  <nd ref="3215213046"/>
+  <nd ref="482794700"/>
+  <nd ref="3215233940"/>
+  <nd ref="482794763"/>
+  <nd ref="3372672622"/>
+  <nd ref="482794787"/>
+  <nd ref="9023496576"/>
+  <nd ref="482794786"/>
+  <tag k="cycleway:left" v="lane"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua Eduardo Salgado"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="258381204" visible="true" version="4" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248">
+  <nd ref="2637461963"/>
+  <nd ref="2637461965"/>
+  <nd ref="2637461966"/>
+  <nd ref="2637461968"/>
+  <nd ref="2637461963"/>
+  <tag k="addr:city" v="Fortaleza"/>
+  <tag k="addr:housenumber" v="1246"/>
+  <tag k="addr:postcode" v="60115-221"/>
+  <tag k="addr:street" v="Avenida Rui Barbosa"/>
+  <tag k="addr:suburb" v="Aldeota"/>
+  <tag k="building" v="yes"/>
+  <tag k="government" v="yes"/>
+  <tag k="name" v="Fundação Cearense de Meteorologia e Recursos Hídricos"/>
+  <tag k="office" v="government"/>
+  <tag k="opening_hours" v="Mo-Fr 08:00-17:00"/>
+  <tag k="phone" v="+55 85 3101 1088"/>
+  <tag k="short_name" v="FUNCEME"/>
+ </way>
+ <way id="258381207" visible="true" version="10" changeset="86530481" timestamp="2020-06-11T18:17:29Z" user="erickdeoliveiraleal" uid="463504">
+  <nd ref="2637461970"/>
+  <nd ref="2637461971"/>
+  <nd ref="2637461972"/>
+  <nd ref="2637461973"/>
+  <nd ref="2637461970"/>
+  <tag k="addr:city" v="Fortaleza"/>
+  <tag k="addr:housenumber" v="1710"/>
+  <tag k="addr:postcode" v="60150-161"/>
+  <tag k="addr:street" v="Avenida Santos Dumont"/>
+  <tag k="addr:suburb" v="Aldeota"/>
+  <tag k="amenity" v="fast_food"/>
+  <tag k="brand" v="McDonald's"/>
+  <tag k="brand:wikidata" v="Q38076"/>
+  <tag k="brand:wikipedia" v="en:McDonald's"/>
+  <tag k="building" v="yes"/>
+  <tag k="cuisine" v="burger"/>
+  <tag k="drive_through" v="yes"/>
+  <tag k="name" v="McDonald's"/>
+  <tag k="opening_hours" v="Su-We 08:00-24:00; Th-Sa 08:00-04:00"/>
+  <tag k="outdoor_seating" v="yes"/>
+  <tag k="phone" v="+55 85 3264 7494"/>
+  <tag k="takeaway" v="yes"/>
+ </way>
+ <way id="277446291" visible="true" version="25" changeset="112762494" timestamp="2021-10-20T20:40:58Z" user="mapitero" uid="12653083">
+  <nd ref="264770733"/>
+  <nd ref="616542016"/>
+  <nd ref="477466896"/>
+  <nd ref="477116647"/>
+  <nd ref="6210800586"/>
+  <nd ref="6210800585"/>
+  <nd ref="477358142"/>
+  <nd ref="623200457"/>
+  <nd ref="477371687"/>
+  <nd ref="476752572"/>
+  <nd ref="478337866"/>
+  <nd ref="5859498905"/>
+  <nd ref="5859498903"/>
+  <nd ref="476740898"/>
+  <nd ref="5859498906"/>
+  <nd ref="476792289"/>
+  <nd ref="253406715"/>
+  <tag k="cycleway:left" v="lane"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxheight" v="4.4"/>
+  <tag k="maxlength" v="6.5"/>
+  <tag k="maxspeed" v="50"/>
+  <tag k="maxwidth" v="2.2"/>
+  <tag k="name" v="Avenida Santos Dumont"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="315405704" visible="true" version="6" changeset="79359868" timestamp="2020-01-08T23:54:57Z" user="matheusgomesms" uid="3781248">
+  <nd ref="3215233242"/>
+  <nd ref="3215233241"/>
+  <nd ref="3215213047"/>
+  <nd ref="3215213046"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lanes" v="1"/>
+  <tag k="name" v="Rua Júlio Ventura"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="315407330" visible="true" version="1" changeset="27170468" timestamp="2014-12-02T02:12:53Z" user="Bonix-Mapper" uid="2030995">
+  <nd ref="3215230103"/>
+  <nd ref="3215230102"/>
+  <nd ref="3215230104"/>
+  <nd ref="3215230105"/>
+  <nd ref="3215230103"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="315407382" visible="true" version="6" changeset="100289729" timestamp="2021-03-02T15:28:48Z" user="TerraFormerJake" uid="12587545">
+  <nd ref="3215233940"/>
+  <nd ref="3215233941"/>
+  <nd ref="4454128701"/>
+  <nd ref="4454128702"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua Alfredo Severo"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="330306064" visible="true" version="7" changeset="108163340" timestamp="2021-07-17T14:54:18Z" user="matheusgomesms" uid="3781248">
+  <nd ref="3372672419"/>
+  <nd ref="8928847176"/>
+  <nd ref="3372672418"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lanes" v="2"/>
+  <tag k="name" v="Rua General Joaquim de Andrade"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="postal_code" v="60150-030"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="384198046" visible="true" version="5" changeset="107864196" timestamp="2021-07-12T22:07:43Z" user="PlayzinhoAgro" uid="10460642">
+  <nd ref="3874928926"/>
+  <nd ref="3874928927"/>
+  <nd ref="3874928928"/>
+  <nd ref="3874928929"/>
+  <nd ref="3874928930"/>
+  <nd ref="3874928931"/>
+  <nd ref="3874928932"/>
+  <nd ref="3874928933"/>
+  <nd ref="3874928926"/>
+  <tag k="addr:city" v="Fortaleza"/>
+  <tag k="addr:housenumber" v="1500"/>
+  <tag k="addr:postcode" v="60150-000"/>
+  <tag k="addr:street" v="Avenida Santos Dumont"/>
+  <tag k="addr:suburb" v="Aldeota"/>
+  <tag k="building" v="apartments"/>
+  <tag k="ele" v="22"/>
+  <tag k="note" v="6"/>
+  <tag k="recuofrente" v="6"/>
+  <tag k="recuofundo" v="3"/>
+  <tag k="recuolateral" v="4"/>
+ </way>
+ <way id="430213300" visible="true" version="2" changeset="61204601" timestamp="2018-07-30T18:35:09Z" user="matheusgomesms" uid="3781248">
+  <nd ref="4294841938"/>
+  <nd ref="4294841939"/>
+  <nd ref="4294841940"/>
+  <nd ref="4294841941"/>
+  <nd ref="4294841942"/>
+  <nd ref="4294841943"/>
+  <nd ref="4294841944"/>
+  <nd ref="4294841945"/>
+  <nd ref="4294841946"/>
+  <nd ref="4294841947"/>
+  <nd ref="4294841948"/>
+  <nd ref="4294841949"/>
+  <nd ref="4294841950"/>
+  <nd ref="4294841951"/>
+  <nd ref="4294841952"/>
+  <nd ref="4294841953"/>
+  <nd ref="4294841938"/>
+  <tag k="addr:city" v="Fortaleza"/>
+  <tag k="addr:housenumber" v="1246"/>
+  <tag k="addr:postcode" v="60115-221"/>
+  <tag k="addr:street" v="Avenida Rui Barbosa"/>
+  <tag k="addr:suburb" v="Aldeota"/>
+  <tag k="building" v="chapel"/>
+  <tag k="name" v="Capela das Irmãs Missionárias"/>
+  <tag k="religion" v="christian"/>
+  <tag k="service_times" v="Mo-Fr 06:30; Sa 18:00; Su 07:30, 18:00"/>
+ </way>
+ <way id="436565590" visible="true" version="7" changeset="110309026" timestamp="2021-08-26T21:57:07Z" user="ThreeOutOfFourCorners" uid="12781282">
+  <nd ref="482156288"/>
+  <nd ref="3215233941"/>
+  <nd ref="482156289"/>
+  <nd ref="3215213047"/>
+  <nd ref="482156290"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="maxheight" v="4.4"/>
+  <tag k="maxlength" v="6.5"/>
+  <tag k="maxwidth" v="2.2"/>
+  <tag k="name" v="Rua Torres Câmara"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="postal_code" v="60150-060"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="437960549" visible="true" version="7" changeset="100005010" timestamp="2021-02-25T21:38:24Z" user="ProfessorLupin" uid="10456431">
+  <nd ref="265021148"/>
+  <nd ref="477116657"/>
+  <nd ref="6148457574"/>
+  <nd ref="6148457575"/>
+  <nd ref="482168695"/>
+  <nd ref="482156289"/>
+  <nd ref="482794700"/>
+  <nd ref="5859498907"/>
+  <nd ref="476792289"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="Rua Doutor José Lourenço"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="437960552" visible="true" version="12" changeset="110004354" timestamp="2021-08-20T19:54:45Z" user="matheusgomesms" uid="3781248">
+  <nd ref="265021121"/>
+  <nd ref="5347752049"/>
+  <nd ref="477116655"/>
+  <nd ref="476760475"/>
+  <nd ref="8986661911"/>
+  <nd ref="7833960385"/>
+  <nd ref="6179962067"/>
+  <nd ref="482156286"/>
+  <nd ref="482794582"/>
+  <tag k="cycleway:right" v="lane"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxspeed" v="60"/>
+  <tag k="name" v="Rua Carlos Vasconcelos"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="postal_code" v="60115-171"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="440867598" visible="true" version="7" changeset="121692541" timestamp="2022-05-30T05:59:10Z" user="b-jazz-bot" uid="9451067">
+  <nd ref="4386374872"/>
+  <nd ref="4386374873"/>
+  <nd ref="4386374874"/>
+  <nd ref="5796688534"/>
+  <nd ref="4386374876"/>
+  <nd ref="4386374877"/>
+  <nd ref="4386374878"/>
+  <nd ref="4386374879"/>
+  <nd ref="4386374880"/>
+  <nd ref="4386374881"/>
+  <nd ref="4386374872"/>
+  <tag k="addr:city" v="Fortaleza"/>
+  <tag k="addr:housenumber" v="1788, Loja 1"/>
+  <tag k="addr:postcode" v="60150-161"/>
+  <tag k="addr:street" v="Avenida Santos Dumont"/>
+  <tag k="addr:suburb" v="Aldeota"/>
+  <tag k="amenity" v="restaurant"/>
+  <tag k="amenity_1" v="restaurant"/>
+  <tag k="building" v="yes"/>
+  <tag k="cuisine" v="regional;pizza"/>
+  <tag k="delivery" v="yes"/>
+  <tag k="name" v="Floresta Bar"/>
+  <tag k="opening_hours" v="Mo 11:00-14:30; Tu-We 11:00-14:30,18:00-23:45; Th 11:00-14:30,18:00-01:00; Fr 11:00-14:30,18:00-02:00; Sa 11:30-15:00,19:00-02:00; Su 18:00-23:00"/>
+  <tag k="outdoor_seating" v="yes"/>
+  <tag k="phone" v="+55 85 3224 3351"/>
+  <tag k="website" v="https://www.florestabar.com.br/"/>
+ </way>
+ <way id="549739038" visible="true" version="1" changeset="55010640" timestamp="2017-12-29T14:03:35Z" user="robertkupis" uid="6306197">
+  <nd ref="5310292095"/>
+  <nd ref="5310292092"/>
+  <nd ref="5310292093"/>
+  <nd ref="5310292094"/>
+  <nd ref="5310292095"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="587348350" visible="true" version="3" changeset="106219024" timestamp="2021-06-11T14:05:38Z" user="matheusgomesms" uid="3781248">
+  <nd ref="5610491696"/>
+  <nd ref="5610491697"/>
+  <nd ref="5610491698"/>
+  <nd ref="5610491699"/>
+  <nd ref="5610491700"/>
+  <nd ref="5610491701"/>
+  <nd ref="8824801793"/>
+  <nd ref="5610491696"/>
+  <tag k="addr:city" v="Fortaleza"/>
+  <tag k="addr:housenumber" v="1349"/>
+  <tag k="addr:postcode" v="60115-221"/>
+  <tag k="addr:street" v="Avenida Rui Barbosa"/>
+  <tag k="addr:suburb" v="Aldeota"/>
+  <tag k="amenity" v="clinic"/>
+  <tag k="building" v="yes"/>
+  <tag k="email" v="contato@pneumologiaealergiace.com.br"/>
+  <tag k="healthcare" v="clinic"/>
+  <tag k="healthcare:speciality" v="allergy;pulmonology"/>
+  <tag k="name" v="Centro de Pneumologia e Alergia do Ceará"/>
+  <tag k="parking" v="yes"/>
+  <tag k="phone" v="+55 85 3305 9999"/>
+  <tag k="website" v="https://pneumologiaealergiace.com.br/"/>
+ </way>
+ <way id="612365186" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:06Z" user="matheusgomesms" uid="3781248">
+  <nd ref="5796688536"/>
+  <nd ref="5796688537"/>
+  <nd ref="5796688538"/>
+  <nd ref="5796688539"/>
+  <nd ref="5796688536"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+ </way>
+ <way id="612365188" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:06Z" user="matheusgomesms" uid="3781248">
+  <nd ref="5796688540"/>
+  <nd ref="5796688541"/>
+  <nd ref="5796688542"/>
+  <nd ref="5796688543"/>
+  <nd ref="5796688544"/>
+  <nd ref="5796688545"/>
+  <nd ref="5796688546"/>
+  <nd ref="5796688547"/>
+  <nd ref="5796688540"/>
+  <tag k="addr:city" v="Fortaleza"/>
+  <tag k="addr:housenumber" v="1068"/>
+  <tag k="addr:postcode" v="60115-281"/>
+  <tag k="addr:street" v="Rua Doutor José Lourenço"/>
+  <tag k="addr:suburb" v="Aldeota"/>
+  <tag k="building" v="apartments"/>
+  <tag k="building:levels" v="11"/>
+  <tag k="name" v="Edifício Anamélia"/>
+ </way>
+ <way id="612365190" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:06Z" user="matheusgomesms" uid="3781248">
+  <nd ref="5796688548"/>
+  <nd ref="5796688549"/>
+  <nd ref="4386374877"/>
+  <nd ref="5796688550"/>
+  <nd ref="5796688537"/>
+  <nd ref="5796688536"/>
+  <nd ref="5796688548"/>
+  <tag k="landuse" v="residential"/>
+ </way>
+ <way id="612365201" visible="true" version="1" changeset="61204601" timestamp="2018-07-30T18:35:07Z" user="matheusgomesms" uid="3781248">
+  <nd ref="5796689575"/>
+  <nd ref="5796689576"/>
+  <nd ref="5796689577"/>
+  <nd ref="5796689578"/>
+  <nd ref="5796689575"/>
+  <tag k="access" v="customers"/>
+  <tag k="amenity" v="parking"/>
+  <tag k="fee" v="no"/>
+ </way>
+ <way id="612365203" visible="true" version="3" changeset="121251818" timestamp="2022-05-20T16:05:25Z" user="Felipe Alves" uid="3045331">
+  <nd ref="5796689579"/>
+  <nd ref="5796689580"/>
+  <nd ref="5796689581"/>
+  <nd ref="4386374873"/>
+  <nd ref="4386374874"/>
+  <nd ref="5796689579"/>
+  <tag k="addr:city" v="Fortaleza"/>
+  <tag k="addr:housenumber" v="1253"/>
+  <tag k="addr:postcode" v="60115-221"/>
+  <tag k="addr:street" v="Avenida Rui Barbosa"/>
+  <tag k="addr:suburb" v="Aldeota"/>
+  <tag k="building" v="yes"/>
+  <tag k="dispensing" v="no"/>
+  <tag k="drive_through" v="no"/>
+  <tag k="name" v="Sellene Mega Diet"/>
+  <tag k="opening_hours" v="Mo-Fr 08:00-20:00; Sa 08:00-16:00"/>
+  <tag k="phone" v="+55 85 3133 1999"/>
+  <tag k="shop" v="health_food"/>
+ </way>
+ <way id="620152614" visible="true" version="3" changeset="110309026" timestamp="2021-08-26T21:57:07Z" user="ThreeOutOfFourCorners" uid="12781282">
+  <nd ref="476816782"/>
+  <nd ref="476794337"/>
+  <nd ref="3372672656"/>
+  <nd ref="5859498904"/>
+  <nd ref="476740898"/>
+  <nd ref="5859498902"/>
+  <nd ref="482794763"/>
+  <nd ref="482156288"/>
+  <tag k="alt_name" v="Rua Rui Barbosa"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="cycleway:left" v="lane"/>
+  <tag k="destination" v="Rodoviária"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxheight" v="4.4"/>
+  <tag k="maxlength" v="6.5"/>
+  <tag k="maxspeed" v="60"/>
+  <tag k="maxwidth" v="2.2"/>
+  <tag k="name" v="Avenida Rui Barbosa"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="postal_code" v="60115-221"/>
+  <tag k="source:maxspeed" v="sign"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="660066719" visible="true" version="5" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132">
+  <nd ref="8986661911"/>
+  <nd ref="7835071022"/>
+  <nd ref="482168708"/>
+  <nd ref="482168724"/>
+  <nd ref="482168726"/>
+  <nd ref="482168728"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua Fiuza de Pontes"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="postal_code" v="60140-195"/>
+ </way>
+ <way id="660066720" visible="true" version="2" changeset="76935136" timestamp="2019-11-12T00:45:53Z" user="127logs" uid="9633823">
+  <nd ref="6179962067"/>
+  <nd ref="6179962066"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua Capitão Antônio Agular"/>
+ </way>
+ <way id="687473674" visible="true" version="1" changeset="69824021" timestamp="2019-05-03T00:55:21Z" user="matheusgomesms" uid="3781248">
+  <nd ref="6444244691"/>
+  <nd ref="6444244692"/>
+  <nd ref="6444244693"/>
+  <nd ref="6444244694"/>
+  <nd ref="6444244691"/>
+  <tag k="building" v="roof"/>
+  <tag k="layer" v="1"/>
+ </way>
+ <way id="687473676" visible="true" version="2" changeset="100852111" timestamp="2021-03-11T15:59:32Z" user="Corban8" uid="4240913">
+  <nd ref="6444244701"/>
+  <nd ref="6444244695"/>
+  <nd ref="6444244696"/>
+  <nd ref="6444244697"/>
+  <nd ref="6444244701"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="1"/>
+ </way>
+ <way id="687473678" visible="true" version="2" changeset="69899601" timestamp="2019-05-05T10:07:51Z" user="gscholz" uid="109705">
+  <nd ref="6444244697"/>
+  <nd ref="6444244696"/>
+  <nd ref="6444244695"/>
+  <nd ref="6444244698"/>
+  <nd ref="6444244699"/>
+  <nd ref="6444244701"/>
+  <nd ref="6444244697"/>
+  <tag k="addr:city" v="Fortaleza"/>
+  <tag k="addr:housenumber" v="1241"/>
+  <tag k="addr:postcode" v="60115-281"/>
+  <tag k="addr:street" v="Rua Doutor José Lourenço"/>
+  <tag k="addr:suburb" v="Aldeota"/>
+  <tag k="amenity" v="fuel"/>
+  <tag k="brand" v="Shell"/>
+  <tag k="brand:wikidata" v="Q154950"/>
+  <tag k="brand:wikipedia" v="en:Royal Dutch Shell"/>
+  <tag k="fuel:diesel" v="yes"/>
+  <tag k="fuel:ethanol" v="yes"/>
+  <tag k="fuel:octane_95" v="yes"/>
+  <tag k="name" v="Posto Petrocar 2"/>
+  <tag k="payment:cash" v="yes"/>
+  <tag k="payment:debit_cards" v="yes"/>
+ </way>
+ <way id="705113090" visible="true" version="4" changeset="116629252" timestamp="2022-01-26T16:29:03Z" user="tiagotins" uid="14947248">
+  <nd ref="6622561556"/>
+  <nd ref="6622561557"/>
+  <nd ref="6622561558"/>
+  <nd ref="6898868243"/>
+  <nd ref="6898868244"/>
+  <nd ref="6898868245"/>
+  <nd ref="6898868242"/>
+  <nd ref="6898868241"/>
+  <nd ref="6622561556"/>
+  <tag k="addr:city" v="Fortaleza"/>
+  <tag k="addr:housenumber" v="1153"/>
+  <tag k="addr:postcode" v="60115-191"/>
+  <tag k="addr:street" v="Rua Monsenhor Bruno"/>
+  <tag k="addr:suburb" v="Aldeota"/>
+  <tag k="building" v="commercial"/>
+  <tag k="building:levels" v="21"/>
+  <tag k="building:min_level" v="4"/>
+  <tag k="name" v="Scopa Platinum Corporate"/>
+ </way>
+ <way id="724635922" visible="true" version="2" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248">
+  <nd ref="6796047367"/>
+  <nd ref="6796047368"/>
+  <nd ref="6796047369"/>
+  <nd ref="6796047370"/>
+  <nd ref="6796047367"/>
+  <tag k="addr:city" v="Fortaleza"/>
+  <tag k="addr:housenumber" v="1749"/>
+  <tag k="addr:postcode" v="60150-161"/>
+  <tag k="addr:street" v="Avenida Santos Dumont"/>
+  <tag k="addr:suburb" v="Aldeota"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="name" v="Mercadinho São Luiz"/>
+  <tag k="opening_hours" v="Mo-Su 07:00-23:00"/>
+  <tag k="payment:cash" v="yes"/>
+  <tag k="payment:credit_cards" v="yes"/>
+  <tag k="payment:debit_cards" v="yes"/>
+  <tag k="shop" v="supermarket"/>
+ </way>
+ <way id="725693582" visible="true" version="3" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132">
+  <nd ref="6804161959"/>
+  <nd ref="6804161958"/>
+  <nd ref="6804161961"/>
+  <nd ref="6804161960"/>
+  <nd ref="6804161959"/>
+  <tag k="addr:city" v="Fortaleza"/>
+  <tag k="addr:housenumber" v="1550"/>
+  <tag k="addr:postcode" v="60150-055"/>
+  <tag k="addr:street" v="Rua Pinto Madeira"/>
+  <tag k="addr:suburb" v="Aldeota"/>
+  <tag k="alt_name" v="Centro de Atenção Psicossocial Geral da Regional II"/>
+  <tag k="amenity" v="clinic"/>
+  <tag k="description" v="Centro de Atenção Psicossocial da Regional II. Atendimento psiquiátrico e psicológico público; atende também dependentes químicos. Consultas marcadas mediante acolhimento prévio."/>
+  <tag k="healthcare" v="clinic"/>
+  <tag k="name" v="Centro de Atenção Psicossocial Geral"/>
+  <tag k="official_name" v="Centro de Atenção Psicossocial Geral Doutor Nilson de Mora Fé"/>
+  <tag k="operator" v="Secretaria Municipal da Saúde de Fortaleza"/>
+  <tag k="operator:type" v="public"/>
+  <tag k="phone" v="+55 85 3105 2632"/>
+  <tag k="ref:CNES" v="5162327"/>
+  <tag k="short_name" v="CAPS SER II"/>
+  <tag k="source" v="Secretaria Municipal da Saúde de Fortaleza"/>
+  <tag k="source:date" v="2019"/>
+  <tag k="website" v="http://cnes2.datasus.gov.br/Exibe_Ficha_Estabelecimento.asp?VCo_Unidade=2304405162327"/>
+ </way>
+ <way id="728896067" visible="true" version="1" changeset="74983001" timestamp="2019-09-26T22:31:06Z" user="gcp87" uid="10120506">
+  <nd ref="6828923431"/>
+  <nd ref="6828923432"/>
+  <nd ref="6828923433"/>
+  <nd ref="6828923434"/>
+  <nd ref="6828923431"/>
+  <tag k="denomination" v="catholic"/>
+  <tag k="landuse" v="religious"/>
+  <tag k="religion" v="christian"/>
+ </way>
+ <way id="736867285" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248">
+  <nd ref="6898764741"/>
+  <nd ref="6898764742"/>
+  <nd ref="6898764739"/>
+  <nd ref="6898764740"/>
+  <nd ref="6898764741"/>
+  <tag k="landuse" v="retail"/>
+ </way>
+ <way id="736867286" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248">
+  <nd ref="6898764745"/>
+  <nd ref="6898764746"/>
+  <nd ref="6898764747"/>
+  <nd ref="6898764782"/>
+  <nd ref="6898764741"/>
+  <nd ref="6898764742"/>
+  <nd ref="6898764748"/>
+  <nd ref="6898764749"/>
+  <nd ref="6898764750"/>
+  <nd ref="6898764768"/>
+  <nd ref="6898764745"/>
+  <tag k="landuse" v="commercial"/>
+ </way>
+ <way id="736867289" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248">
+  <nd ref="6898764757"/>
+  <nd ref="6898764758"/>
+  <nd ref="6898764759"/>
+  <nd ref="6898764765"/>
+  <nd ref="6898764766"/>
+  <nd ref="6898764764"/>
+  <nd ref="6898764763"/>
+  <nd ref="6898764762"/>
+  <nd ref="6898764767"/>
+  <nd ref="6898764761"/>
+  <nd ref="6898764760"/>
+  <nd ref="6898764757"/>
+  <tag k="addr:city" v="Fortaleza"/>
+  <tag k="addr:housenumber" v="1789"/>
+  <tag k="addr:postcode" v="60150-161"/>
+  <tag k="addr:street" v="Avenida Santos Dumont"/>
+  <tag k="addr:suburb" v="Aldeota"/>
+  <tag k="building" v="commercial"/>
+  <tag k="height" v="21"/>
+  <tag k="name" v="Potenza Centro de Negócios"/>
+ </way>
+ <way id="736867290" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248">
+  <nd ref="6898764748"/>
+  <nd ref="6898764744"/>
+  <nd ref="6898764750"/>
+  <nd ref="6898764749"/>
+  <nd ref="6898764748"/>
+  <tag k="landuse" v="retail"/>
+ </way>
+ <way id="736867291" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248">
+  <nd ref="6898764769"/>
+  <nd ref="6898764770"/>
+  <nd ref="6898764771"/>
+  <nd ref="6898764772"/>
+  <nd ref="6898764769"/>
+  <tag k="addr:city" v="Fortaleza"/>
+  <tag k="addr:housenumber" v="1815"/>
+  <tag k="addr:postcode" v="60150-161"/>
+  <tag k="addr:street" v="Avenida Santos Dumont"/>
+  <tag k="addr:suburb" v="Aldeota"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+ </way>
+ <way id="736867292" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248">
+  <nd ref="6898764773"/>
+  <nd ref="6898764774"/>
+  <nd ref="6898764775"/>
+  <nd ref="6898764776"/>
+  <nd ref="6898764773"/>
+  <tag k="addr:city" v="Fortaleza"/>
+  <tag k="addr:housenumber" v="1825"/>
+  <tag k="addr:postcode" v="60150-161"/>
+  <tag k="addr:street" v="Avenida Santos Dumont"/>
+  <tag k="addr:suburb" v="Aldeota"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+ </way>
+ <way id="736867293" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248">
+  <nd ref="6898764777"/>
+  <nd ref="6898764778"/>
+  <nd ref="6898764780"/>
+  <nd ref="6898764779"/>
+  <nd ref="6898764777"/>
+  <tag k="addr:city" v="Fortaleza"/>
+  <tag k="addr:housenumber" v="980"/>
+  <tag k="addr:postcode" v="60115-281"/>
+  <tag k="addr:street" v="Rua Doutor José Lourenço"/>
+  <tag k="addr:suburb" v="Aldeota"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+ </way>
+ <way id="736867300" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248">
+  <nd ref="6898868227"/>
+  <nd ref="6898868228"/>
+  <nd ref="6898868229"/>
+  <nd ref="6898868230"/>
+  <nd ref="6898868231"/>
+  <nd ref="6898868232"/>
+  <nd ref="6898868233"/>
+  <nd ref="6898868234"/>
+  <nd ref="6898868227"/>
+  <tag k="amenity" v="parking"/>
+  <tag k="fee" v="yes"/>
+  <tag k="parking" v="surface"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="736867301" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248">
+  <nd ref="6898868230"/>
+  <nd ref="6898868231"/>
+  <nd ref="6898868232"/>
+  <nd ref="6898868233"/>
+  <nd ref="6898868230"/>
+  <tag k="landuse" v="retail"/>
+ </way>
+ <way id="736867302" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248">
+  <nd ref="6898868235"/>
+  <nd ref="2637461963"/>
+  <nd ref="2637461968"/>
+  <nd ref="6898868236"/>
+  <nd ref="6898868228"/>
+  <nd ref="6898868227"/>
+  <nd ref="6898868235"/>
+  <tag k="office" v="government"/>
+ </way>
+ <way id="736867303" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248">
+  <nd ref="6898868236"/>
+  <nd ref="6898868237"/>
+  <nd ref="6898868238"/>
+  <nd ref="6898868235"/>
+  <nd ref="2637461963"/>
+  <nd ref="2637461968"/>
+  <nd ref="6898868236"/>
+  <tag k="landuse" v="religious"/>
+ </way>
+ <way id="736867304" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248">
+  <nd ref="6898868237"/>
+  <nd ref="6898868240"/>
+  <nd ref="6898868239"/>
+  <nd ref="6898868229"/>
+  <nd ref="6898868228"/>
+  <nd ref="6898868236"/>
+  <nd ref="6898868237"/>
+  <tag k="landuse" v="commercial"/>
+ </way>
+ <way id="736867305" visible="true" version="1" changeset="75938155" timestamp="2019-10-19T19:34:34Z" user="matheusgomesms" uid="3781248">
+  <nd ref="6622561556"/>
+  <nd ref="6898868246"/>
+  <nd ref="6898868247"/>
+  <nd ref="6898868248"/>
+  <nd ref="6898868249"/>
+  <nd ref="6898868250"/>
+  <nd ref="6898868251"/>
+  <nd ref="6898868252"/>
+  <nd ref="6622561557"/>
+  <nd ref="6622561556"/>
+  <tag k="amenity" v="parking"/>
+  <tag k="building" v="parking"/>
+  <tag k="building:levels" v="4"/>
+  <tag k="building:levels:underground" v="4"/>
+  <tag k="parking" v="multi-storey"/>
+ </way>
+ <way id="761863682" visible="true" version="1" changeset="79359868" timestamp="2020-01-08T23:54:57Z" user="matheusgomesms" uid="3781248">
+  <nd ref="7118244676"/>
+  <nd ref="7118244677"/>
+  <nd ref="7118260387"/>
+  <nd ref="7118244678"/>
+  <nd ref="7118244679"/>
+  <nd ref="7118244675"/>
+  <nd ref="7118244680"/>
+  <nd ref="7118244676"/>
+  <tag k="addr:city" v="Fortaleza"/>
+  <tag k="addr:housenumber" v="425"/>
+  <tag k="addr:postcode" v="60150-060"/>
+  <tag k="addr:street" v="Rua Torres Câmara"/>
+  <tag k="addr:suburb" v="Aldeota"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="1"/>
+ </way>
+ <way id="786213290" visible="true" version="3" changeset="108435728" timestamp="2021-07-22T14:56:28Z" user="mapitero" uid="12653083">
+  <nd ref="478337886"/>
+  <nd ref="478337887"/>
+  <nd ref="3372672655"/>
+  <nd ref="5859498901"/>
+  <nd ref="478337866"/>
+  <nd ref="482794787"/>
+  <nd ref="482156287"/>
+  <nd ref="482168701"/>
+  <nd ref="478337860"/>
+  <nd ref="478337888"/>
+  <nd ref="265021151"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lanes" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="Rua Monsenhor Bruno"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="postal_code" v="60115-191"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="839645127" visible="true" version="4" changeset="109283673" timestamp="2021-08-06T20:40:56Z" user="matheusgomesms-import" uid="11108132">
+  <nd ref="7835071023"/>
+  <nd ref="7835071024"/>
+  <nd ref="7833960385"/>
+  <tag k="alt_name" v="Rua Affonso Celso"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lanes" v="1"/>
+  <tag k="name" v="Rua Afonso Celso"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="postal_code" v="60140-190"/>
+  <tag k="surface" v="asphalt"/>
+  <tag k="turn:lanes" v="right"/>
+ </way>
+ <way id="906952820" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858">
+  <nd ref="8421751627"/>
+  <nd ref="8421751628"/>
+  <nd ref="8421751629"/>
+  <nd ref="8421751630"/>
+  <nd ref="8421751631"/>
+  <nd ref="8421751632"/>
+  <nd ref="8421751633"/>
+  <nd ref="8421751634"/>
+  <nd ref="8421751635"/>
+  <nd ref="8421751636"/>
+  <nd ref="8421751637"/>
+  <nd ref="8421751638"/>
+  <nd ref="8421751639"/>
+  <nd ref="8421751640"/>
+  <nd ref="8421751641"/>
+  <nd ref="8421751642"/>
+  <nd ref="8421751643"/>
+  <nd ref="8421751644"/>
+  <nd ref="8421751645"/>
+  <nd ref="8421751646"/>
+  <nd ref="8421751627"/>
+  <tag k="building" v="apartments"/>
+ </way>
+ <way id="906952821" visible="true" version="1" changeset="99235468" timestamp="2021-02-14T01:50:33Z" user="DiegoRibeiro" uid="9624858">
+  <nd ref="8421751647"/>
+  <nd ref="8421751648"/>
+  <nd ref="8421751649"/>
+  <nd ref="8421751650"/>
+  <nd ref="8421751647"/>
+  <tag k="building" v="apartments"/>
+ </way>
+ <way id="912806740" visible="true" version="2" changeset="108163340" timestamp="2021-07-17T14:54:18Z" user="matheusgomesms" uid="3781248">
+  <nd ref="3372672418"/>
+  <nd ref="3372672622"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lanes" v="2"/>
+  <tag k="name" v="Rua General Joaquim de Andrade"/>
+  <tag k="oneway" v="no"/>
+  <tag k="postal_code" v="60150-030"/>
+  <tag k="surface" v="sett"/>
+ </way>
+ <way id="953423246" visible="true" version="1" changeset="106219024" timestamp="2021-06-11T14:05:38Z" user="matheusgomesms" uid="3781248">
+  <nd ref="8824801793"/>
+  <nd ref="8824801794"/>
+  <nd ref="8824801795"/>
+  <nd ref="8824801796"/>
+  <nd ref="8824801797"/>
+  <nd ref="5610491696"/>
+  <nd ref="8824801793"/>
+  <tag k="amenity" v="parking"/>
+  <tag k="parking" v="surface"/>
+ </way>
+ <way id="953423247" visible="true" version="1" changeset="106219024" timestamp="2021-06-11T14:05:38Z" user="matheusgomesms" uid="3781248">
+  <nd ref="8824801798"/>
+  <nd ref="8824801799"/>
+  <nd ref="8824801800"/>
+  <nd ref="8824801801"/>
+  <nd ref="8824801798"/>
+  <tag k="access" v="customers"/>
+  <tag k="amenity" v="parking"/>
+  <tag k="capacity" v="7"/>
+  <tag k="parking" v="street_side"/>
+  <tag k="surface" v="paving_stones"/>
+ </way>
+ <way id="971009829" visible="true" version="2" changeset="109284190" timestamp="2021-08-06T20:55:24Z" user="matheusgomesms" uid="3781248">
+  <nd ref="482156283"/>
+  <nd ref="482156284"/>
+  <nd ref="482156285"/>
+  <nd ref="8479381985"/>
+  <nd ref="477466813"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="maxheight" v="4.4"/>
+  <tag k="maxlength" v="6.5"/>
+  <tag k="maxwidth" v="2.2"/>
+  <tag k="name" v="Rua Pinto Madeira"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="postal_code" v="60150-055"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="971009830" visible="true" version="2" changeset="109284190" timestamp="2021-08-06T20:55:24Z" user="matheusgomesms" uid="3781248">
+  <nd ref="477466813"/>
+  <nd ref="8986661912"/>
+  <nd ref="482156286"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="maxheight" v="4.4"/>
+  <tag k="maxlength" v="6.5"/>
+  <tag k="maxwidth" v="2.2"/>
+  <tag k="name" v="Rua Pinto Madeira"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="postal_code" v="60150-055"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="975073262" visible="true" version="1" changeset="110004354" timestamp="2021-08-20T19:54:45Z" user="matheusgomesms" uid="3781248">
+  <nd ref="482794786"/>
+  <nd ref="476752572"/>
+  <nd ref="476794340"/>
+  <nd ref="3225967977"/>
+  <nd ref="476816781"/>
+  <tag k="cycleway:right" v="lane"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxspeed" v="60"/>
+  <tag k="name" v="Rua Carlos Vasconcelos"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="postal_code" v="60115-171"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="975073263" visible="true" version="1" changeset="110004354" timestamp="2021-08-20T19:54:45Z" user="matheusgomesms" uid="3781248">
+  <nd ref="482794582"/>
+  <nd ref="9023496577"/>
+  <nd ref="482794786"/>
+  <tag k="cycleway:left" v="opposite_lane"/>
+  <tag k="cycleway:right" v="lane"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxspeed" v="60"/>
+  <tag k="name" v="Rua Carlos Vasconcelos"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="postal_code" v="60115-171"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="976788611" visible="true" version="1" changeset="110309026" timestamp="2021-08-26T21:57:07Z" user="ThreeOutOfFourCorners" uid="12781282">
+  <nd ref="482156286"/>
+  <nd ref="482156287"/>
+  <nd ref="3372672418"/>
+  <nd ref="482156288"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="maxheight" v="4.4"/>
+  <tag k="maxlength" v="6.5"/>
+  <tag k="maxwidth" v="2.2"/>
+  <tag k="name" v="Rua Torres Câmara"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="postal_code" v="60150-060"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="976788612" visible="true" version="1" changeset="110309026" timestamp="2021-08-26T21:57:07Z" user="ThreeOutOfFourCorners" uid="12781282">
+  <nd ref="482156288"/>
+  <nd ref="482168698"/>
+  <nd ref="476760474"/>
+  <nd ref="477116656"/>
+  <nd ref="265021150"/>
+  <tag k="alt_name" v="Rua Rui Barbosa"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="cycleway:left" v="lane"/>
+  <tag k="destination" v="Rodoviária"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxheight" v="4.4"/>
+  <tag k="maxlength" v="6.5"/>
+  <tag k="maxspeed" v="60"/>
+  <tag k="maxwidth" v="2.2"/>
+  <tag k="name" v="Avenida Rui Barbosa"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="postal_code" v="60115-221"/>
+  <tag k="source:maxspeed" v="sign"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="1062136657" visible="true" version="1" changeset="121251818" timestamp="2022-05-20T16:05:25Z" user="Felipe Alves" uid="3045331">
+  <nd ref="9757724433"/>
+  <nd ref="9757724434"/>
+  <nd ref="9757724435"/>
+  <nd ref="9757724436"/>
+  <nd ref="9757724433"/>
+  <tag k="building" v="commercial"/>
+ </way>
+ <relation id="5393277" visible="true" version="28" changeset="110570216" timestamp="2021-09-01T14:12:29Z" user="cartogravy" uid="12781321">
+  <member type="way" ref="277446291" role=""/>
+  <member type="way" ref="436565576" role=""/>
+  <member type="way" ref="436565575" role=""/>
+  <member type="way" ref="739673232" role=""/>
+  <member type="way" ref="773657937" role=""/>
+  <member type="way" ref="739297833" role=""/>
+  <member type="way" ref="739297835" role=""/>
+  <member type="way" ref="739673234" role=""/>
+  <member type="way" ref="704953730" role=""/>
+  <member type="way" ref="704953731" role=""/>
+  <member type="way" ref="282429694" role=""/>
+  <member type="way" ref="775534218" role=""/>
+  <member type="way" ref="910975864" role=""/>
+  <member type="way" ref="282429691" role=""/>
+  <member type="way" ref="912551306" role=""/>
+  <member type="way" ref="282429690" role=""/>
+  <member type="way" ref="282429692" role=""/>
+  <member type="way" ref="529832006" role=""/>
+  <member type="way" ref="755221865" role=""/>
+  <member type="way" ref="749953505" role=""/>
+  <member type="way" ref="700951423" role=""/>
+  <member type="way" ref="529832001" role=""/>
+  <member type="way" ref="276759197" role=""/>
+  <member type="way" ref="700951424" role=""/>
+  <member type="way" ref="433048986" role=""/>
+  <member type="way" ref="913312650" role=""/>
+  <member type="way" ref="913312649" role=""/>
+  <member type="way" ref="913906394" role=""/>
+  <member type="way" ref="913906395" role=""/>
+  <member type="way" ref="978439972" role=""/>
+  <member type="way" ref="913224849" role=""/>
+  <member type="way" ref="913224844" role=""/>
+  <member type="way" ref="913224850" role=""/>
+  <member type="way" ref="940734211" role=""/>
+  <member type="way" ref="913226993" role=""/>
+  <member type="way" ref="913226994" role=""/>
+  <member type="way" ref="913226991" role=""/>
+  <member type="way" ref="913226992" role=""/>
+  <member type="way" ref="913226987" role=""/>
+  <member type="way" ref="732996519" role=""/>
+  <member type="way" ref="621990059" role=""/>
+  <member type="way" ref="771905121" role=""/>
+  <member type="way" ref="433048987" role=""/>
+  <member type="way" ref="541414414" role=""/>
+  <member type="way" ref="913312652" role=""/>
+  <member type="way" ref="913312651" role=""/>
+  <member type="way" ref="913906392" role=""/>
+  <member type="way" ref="23405846" role=""/>
+  <member type="way" ref="913224847" role=""/>
+  <member type="way" ref="913224843" role=""/>
+  <member type="way" ref="913224848" role=""/>
+  <member type="way" ref="757020818" role=""/>
+  <member type="way" ref="757587120" role=""/>
+  <tag k="name" v="Ciclofaixa Santos Dumont"/>
+  <tag k="network" v="lcn"/>
+  <tag k="route" v="bicycle"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="5695098" visible="true" version="16" changeset="110309026" timestamp="2021-08-26T21:57:07Z" user="ThreeOutOfFourCorners" uid="12781282">
+  <member type="way" ref="836863892" role=""/>
+  <member type="way" ref="836863891" role=""/>
+  <member type="way" ref="46995758" role=""/>
+  <member type="way" ref="620152614" role=""/>
+  <member type="way" ref="976788612" role=""/>
+  <member type="way" ref="911025334" role=""/>
+  <member type="way" ref="437960550" role=""/>
+  <member type="way" ref="912972898" role=""/>
+  <member type="way" ref="790337071" role=""/>
+  <member type="way" ref="48530484" role=""/>
+  <member type="way" ref="686631458" role=""/>
+  <member type="way" ref="840331871" role=""/>
+  <member type="way" ref="437320472" role=""/>
+  <tag k="name" v="Ciclofaixa Rui Barbosa"/>
+  <tag k="network" v="lcn"/>
+  <tag k="route" v="bicycle"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="5726142" visible="true" version="12" changeset="110004354" timestamp="2021-08-20T19:54:45Z" user="matheusgomesms" uid="3781248">
+  <member type="way" ref="850253435" role=""/>
+  <member type="way" ref="437960552" role=""/>
+  <member type="way" ref="975073263" role=""/>
+  <member type="way" ref="975073262" role=""/>
+  <member type="way" ref="39771050" role=""/>
+  <member type="way" ref="867166149" role=""/>
+  <member type="way" ref="24395504" role=""/>
+  <member type="way" ref="437320474" role=""/>
+  <member type="way" ref="913628729" role=""/>
+  <member type="way" ref="912958007" role=""/>
+  <member type="way" ref="385033950" role=""/>
+  <tag k="name" v="Ciclofaixa Carlos Vasconcelos"/>
+  <tag k="network" v="lcn"/>
+  <tag k="route" v="bicycle"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="6482115" visible="true" version="2" changeset="100005367" timestamp="2021-02-25T21:51:20Z" user="ProfessorLupin" uid="10456431">
+  <member type="way" ref="436565589" role="to"/>
+  <member type="node" ref="482156290" role="via"/>
+  <member type="way" ref="911027979" role="from"/>
+  <tag k="restriction" v="no_left_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="6482122" visible="true" version="3" changeset="100006278" timestamp="2021-02-25T22:20:46Z" user="ProfessorLupin" uid="10456431">
+  <member type="way" ref="436565576" role="to"/>
+  <member type="node" ref="253406715" role="via"/>
+  <member type="way" ref="911036405" role="from"/>
+  <tag k="restriction" v="no_left_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="6505103" visible="true" version="2" changeset="100005010" timestamp="2021-02-25T21:38:24Z" user="ProfessorLupin" uid="10456431">
+  <member type="node" ref="265021150" role="via"/>
+  <member type="way" ref="911025335" role="from"/>
+  <member type="way" ref="911025334" role="to"/>
+  <tag k="restriction" v="no_left_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="6505104" visible="true" version="3" changeset="99533639" timestamp="2021-02-18T15:22:49Z" user="matheusgomesms" uid="3781248">
+  <member type="way" ref="908442834" role="from"/>
+  <member type="node" ref="265021121" role="via"/>
+  <member type="way" ref="437960552" role="to"/>
+  <tag k="restriction" v="no_left_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="7188498" visible="true" version="78" changeset="119478246" timestamp="2022-04-08T16:45:23Z" user="matheusgomesms" uid="3781248">
+  <member type="way" ref="846636864" role=""/>
+  <member type="way" ref="502993412" role=""/>
+  <member type="way" ref="441228640" role=""/>
+  <member type="way" ref="704930676" role=""/>
+  <member type="way" ref="704930678" role=""/>
+  <member type="way" ref="846636855" role=""/>
+  <member type="way" ref="846636856" role=""/>
+  <member type="way" ref="361767246" role=""/>
+  <member type="way" ref="913586606" role=""/>
+  <member type="way" ref="770302921" role=""/>
+  <member type="way" ref="846636844" role=""/>
+  <member type="way" ref="770302925" role=""/>
+  <member type="way" ref="846636845" role=""/>
+  <member type="way" ref="940188460" role=""/>
+  <member type="way" ref="846636836" role=""/>
+  <member type="way" ref="913586603" role=""/>
+  <member type="way" ref="846636834" role=""/>
+  <member type="way" ref="24416085" role=""/>
+  <member type="way" ref="846636831" role=""/>
+  <member type="way" ref="1032398953" role=""/>
+  <member type="way" ref="1032398955" role=""/>
+  <member type="way" ref="1032398955" role=""/>
+  <member type="way" ref="1032398953" role=""/>
+  <member type="way" ref="846636831" role=""/>
+  <member type="way" ref="24416085" role=""/>
+  <member type="way" ref="489434295" role=""/>
+  <member type="way" ref="361767253" role=""/>
+  <member type="way" ref="913586601" role=""/>
+  <member type="way" ref="846636832" role=""/>
+  <member type="way" ref="770302929" role=""/>
+  <member type="way" ref="770302926" role=""/>
+  <member type="way" ref="913586605" role=""/>
+  <member type="way" ref="770302922" role=""/>
+  <member type="way" ref="704930679" role=""/>
+  <member type="way" ref="846636852" role=""/>
+  <member type="way" ref="704930677" role=""/>
+  <member type="way" ref="913591731" role=""/>
+  <member type="way" ref="361767242" role=""/>
+  <member type="way" ref="913577681" role=""/>
+  <member type="way" ref="48485272" role=""/>
+  <member type="way" ref="846636861" role=""/>
+  <member type="way" ref="846636870" role=""/>
+  <member type="way" ref="846636872" role=""/>
+  <member type="way" ref="867157873" role=""/>
+  <member type="way" ref="846646831" role=""/>
+  <member type="way" ref="848627822" role=""/>
+  <member type="way" ref="441240947" role=""/>
+  <member type="way" ref="913324503" role=""/>
+  <member type="way" ref="846646843" role=""/>
+  <member type="way" ref="846646847" role=""/>
+  <member type="way" ref="441206070" role=""/>
+  <member type="way" ref="848627825" role=""/>
+  <member type="way" ref="441240949" role=""/>
+  <member type="way" ref="913324511" role=""/>
+  <member type="way" ref="508545968" role=""/>
+  <member type="way" ref="361767248" role=""/>
+  <member type="way" ref="439966907" role=""/>
+  <member type="way" ref="439966908" role=""/>
+  <member type="way" ref="361767255" role=""/>
+  <member type="way" ref="361767252" role=""/>
+  <member type="way" ref="48485273" role=""/>
+  <member type="way" ref="913324510" role=""/>
+  <member type="way" ref="508545969" role=""/>
+  <member type="way" ref="508314266" role=""/>
+  <member type="way" ref="848627823" role=""/>
+  <member type="way" ref="441206071" role=""/>
+  <member type="way" ref="913324504" role=""/>
+  <member type="way" ref="846646842" role=""/>
+  <member type="way" ref="846646844" role=""/>
+  <member type="way" ref="913568381" role=""/>
+  <member type="way" ref="846646833" role=""/>
+  <member type="way" ref="846646829" role=""/>
+  <member type="way" ref="361767250" role=""/>
+  <member type="way" ref="846636876" role=""/>
+  <member type="way" ref="846636874" role=""/>
+  <member type="way" ref="522955455" role=""/>
+  <member type="way" ref="24419363" role=""/>
+  <member type="way" ref="707848841" role=""/>
+  <member type="way" ref="965387565" role=""/>
+  <member type="way" ref="766526877" role=""/>
+  <member type="way" ref="736388319" role=""/>
+  <member type="way" ref="964730265" role=""/>
+  <member type="way" ref="335467152" role=""/>
+  <member type="way" ref="500819414" role=""/>
+  <member type="way" ref="500819410" role=""/>
+  <member type="way" ref="183461059" role=""/>
+  <member type="way" ref="624792158" role=""/>
+  <member type="way" ref="335467104" role=""/>
+  <member type="way" ref="914771638" role=""/>
+  <member type="way" ref="220917953" role=""/>
+  <member type="way" ref="915923625" role=""/>
+  <member type="way" ref="383804426" role=""/>
+  <member type="way" ref="335467141" role=""/>
+  <member type="way" ref="24439881" role=""/>
+  <member type="way" ref="913926967" role=""/>
+  <member type="way" ref="335467108" role=""/>
+  <member type="way" ref="913685731" role=""/>
+  <member type="way" ref="489434285" role=""/>
+  <member type="way" ref="335467147" role=""/>
+  <member type="way" ref="624792157" role=""/>
+  <member type="way" ref="443380743" role=""/>
+  <member type="way" ref="443380744" role=""/>
+  <member type="way" ref="707848838" role=""/>
+  <member type="way" ref="707848839" role=""/>
+  <member type="way" ref="531574609" role=""/>
+  <member type="way" ref="335467130" role=""/>
+  <member type="way" ref="912886155" role=""/>
+  <member type="way" ref="620152612" role=""/>
+  <member type="way" ref="335467156" role=""/>
+  <member type="way" ref="335467088" role=""/>
+  <member type="way" ref="335467100" role=""/>
+  <member type="way" ref="965424798" role=""/>
+  <member type="way" ref="436564184" role=""/>
+  <member type="way" ref="436564186" role=""/>
+  <member type="way" ref="461781620" role=""/>
+  <member type="way" ref="697526070" role=""/>
+  <member type="way" ref="277446291" role=""/>
+  <member type="way" ref="436565576" role=""/>
+  <member type="way" ref="436565575" role=""/>
+  <member type="way" ref="739673232" role=""/>
+  <member type="way" ref="773657937" role=""/>
+  <member type="way" ref="739297833" role=""/>
+  <member type="way" ref="739297835" role=""/>
+  <member type="way" ref="739673234" role=""/>
+  <member type="way" ref="704953730" role=""/>
+  <member type="way" ref="704953731" role=""/>
+  <member type="way" ref="282429694" role=""/>
+  <member type="way" ref="775534218" role=""/>
+  <member type="way" ref="910975864" role=""/>
+  <member type="way" ref="282429691" role=""/>
+  <member type="way" ref="912551306" role=""/>
+  <member type="way" ref="282429690" role=""/>
+  <member type="way" ref="282429692" role=""/>
+  <member type="way" ref="548418679" role=""/>
+  <member type="way" ref="912553549" role=""/>
+  <member type="way" ref="911390208" role=""/>
+  <member type="way" ref="816195782" role=""/>
+  <member type="way" ref="816195781" role=""/>
+  <member type="way" ref="522955457" role=""/>
+  <member type="way" ref="276755895" role=""/>
+  <member type="way" ref="436564156" role=""/>
+  <member type="way" ref="436564155" role=""/>
+  <member type="way" ref="841517795" role=""/>
+  <member type="way" ref="841517796" role=""/>
+  <member type="way" ref="335467103" role=""/>
+  <member type="way" ref="976787696" role=""/>
+  <member type="way" ref="911036404" role=""/>
+  <member type="way" ref="754680678" role=""/>
+  <member type="way" ref="489434291" role=""/>
+  <member type="way" ref="489434293" role=""/>
+  <member type="way" ref="899490545" role=""/>
+  <member type="way" ref="489434292" role=""/>
+  <member type="way" ref="1050321318" role=""/>
+  <member type="way" ref="836797891" role=""/>
+  <member type="way" ref="335467150" role=""/>
+  <member type="way" ref="45095710" role=""/>
+  <member type="way" ref="636289093" role=""/>
+  <member type="way" ref="335467133" role=""/>
+  <member type="way" ref="636289076" role=""/>
+  <member type="way" ref="912541736" role=""/>
+  <member type="way" ref="912541735" role=""/>
+  <member type="way" ref="437313892" role=""/>
+  <member type="way" ref="910971658" role=""/>
+  <member type="way" ref="489434286" role=""/>
+  <member type="way" ref="1022699853" role=""/>
+  <member type="way" ref="621646300" role=""/>
+  <member type="way" ref="188549041" role=""/>
+  <member type="way" ref="695927843" role=""/>
+  <member type="way" ref="695927844" role=""/>
+  <member type="way" ref="985361577" role=""/>
+  <member type="way" ref="184699429" role=""/>
+  <member type="way" ref="598428559" role=""/>
+  <member type="way" ref="335467151" role=""/>
+  <member type="way" ref="392858199" role=""/>
+  <member type="way" ref="335467139" role=""/>
+  <member type="way" ref="746285290" role=""/>
+  <member type="way" ref="808207731" role=""/>
+  <member type="way" ref="808207730" role=""/>
+  <member type="way" ref="335467107" role=""/>
+  <member type="way" ref="489434288" role=""/>
+  <member type="way" ref="866995798" role=""/>
+  <member type="way" ref="915545600" role=""/>
+  <member type="way" ref="915545600" role=""/>
+  <member type="way" ref="866995798" role=""/>
+  <member type="way" ref="609293926" role=""/>
+  <member type="way" ref="609293926" role=""/>
+  <member type="way" ref="996075400" role=""/>
+  <member type="way" ref="997531980" role=""/>
+  <member type="way" ref="997531976" role=""/>
+  <member type="way" ref="997531972" role=""/>
+  <member type="way" ref="997531974" role=""/>
+  <member type="way" ref="191585228" role=""/>
+  <member type="way" ref="739706164" role=""/>
+  <member type="way" ref="739706164" role=""/>
+  <member type="way" ref="191585228" role=""/>
+  <member type="way" ref="997531974" role=""/>
+  <member type="way" ref="997531972" role=""/>
+  <member type="way" ref="997531976" role=""/>
+  <member type="way" ref="997531980" role=""/>
+  <member type="way" ref="996075400" role=""/>
+  <member type="way" ref="997531983" role=""/>
+  <member type="way" ref="997531985" role=""/>
+  <member type="way" ref="997531984" role=""/>
+  <member type="way" ref="997531986" role=""/>
+  <member type="way" ref="997531988" role=""/>
+  <member type="way" ref="441430628" role=""/>
+  <member type="way" ref="441430628" role=""/>
+  <member type="way" ref="997531988" role=""/>
+  <member type="way" ref="997531986" role=""/>
+  <member type="way" ref="997531984" role=""/>
+  <member type="way" ref="997531985" role=""/>
+  <member type="way" ref="997531983" role=""/>
+  <tag k="name" v="Antônio Bezerra / Francisco Sá / Papicu"/>
+  <tag k="ref" v="042"/>
+  <tag k="route" v="bus"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="13131654" visible="true" version="1" changeset="110309026" timestamp="2021-08-26T21:57:07Z" user="ThreeOutOfFourCorners" uid="12781282">
+  <member type="way" ref="436565590" role="to"/>
+  <member type="node" ref="482156288" role="via"/>
+  <member type="way" ref="620152614" role="from"/>
+  <tag k="restriction:hgv:conditional" v="no_left_turn @ (Mo-Fr 06:00-20:00 ; Sa 06:00-13:00)"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+</osm>
