@@ -1,5 +1,7 @@
 from dis import dis
+import math
 from queue import PriorityQueue
+from tracemalloc import start
 from turtle import st
 import networkx as nx
 from grafo import Graph
@@ -138,3 +140,60 @@ class Solver():
                         parent[self.graph.nodes.index(d)] = o
                 listaP.put(bestChoice)
         return PathUtil.getPathFromParentList(self.graph, d, parent)
+
+    def Aestrela(self, origin, goal):
+        totalNodes = len(self.graph.nodes)
+        openList = PriorityQueue()
+        openList.put((0, origin))
+        closedList = []
+        h = self.Heuristic(goal)
+        parent = [""]*(totalNodes)
+        D = {v: float('inf') for v in range(totalNodes)}
+        D[self.graph.nodes.index(origin)] = 0
+        paths = [[origin]] * totalNodes
+
+        while not openList.empty():
+            (dist, noAtual) = openList.get()
+            closedList.append(noAtual)
+            if noAtual == goal:
+                break
+            adjacent = self.graph.graph.out_edges(noAtual)
+            for o, d, in adjacent:
+                caminho = []
+                if d not in closedList:
+                    caminho.append(d)
+                    parent[self.graph.nodes.index(d)] = o
+                    distance = self.graph.getAttributeFromEdge(
+                        o, d, 'length')
+                    custo_anterior = D[self.graph.nodes.index(d)]
+                    novo_custo = D[self.graph.nodes.index(noAtual)] + distance
+                    novo_caminho = paths[self.graph.nodes.index(
+                        noAtual)] + caminho
+                    if novo_custo < custo_anterior:
+                        paths[self.graph.nodes.index(d)] = novo_caminho
+                        openList.put(
+                            (novo_custo + h[self.graph.nodes.index(d)], d))
+                        D[self.graph.nodes.index(d)] = novo_custo
+            closedList.append(noAtual)
+
+        path = ''
+        if D[self.graph.nodes.index(goal)] != path:
+            path = paths[self.graph.nodes.index(goal)]
+            print(path)
+        return path
+
+    def Heuristic(self, goal):
+        distance = list()
+
+        goalNode = self.graph.graph.nodes.get(goal)
+
+        if self.graph != None:
+            for v in self.graph.nodes:
+                if v == goal:
+                    distance.append(0)
+                else:
+                    currentNode = self.graph.graph.nodes.get(v)
+                    euclidian = (goalNode['x'] - currentNode['x']
+                                 )**2 + (goalNode['y'] - currentNode['y'])**2
+                    distance.append(math.sqrt(euclidian))
+            return distance
