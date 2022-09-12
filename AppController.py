@@ -1,6 +1,5 @@
 from utils.PathUtil import PathUtil
 from utils.PlotUtil import PlotUtil
-from utils.SolverUtil import Solver
 
 
 class AppController():
@@ -11,7 +10,8 @@ class AppController():
     def FindPath(Graph, origin, goal, algorithm):
         path = algorithm(origin, goal)
         print(path)
-        PlotUtil.PlotPathOSM(Graph, origin, goal, path)
+        #PlotUtil.PlotPathOSM(Graph, origin, goal, path)
+        return path
 
     def GenerateTreeFromAlgorithm(Graph, origin, goal, algorithm):
         parent = algorithm(origin, goal, False)
