@@ -10,6 +10,8 @@ class PathUtil():
             node = ParentList[nodeList.index(node)]
         return path
 
+    
+
     @staticmethod
     def getEdgesListFromParentList(Graph, goal, ParentList):
         edgeList = []

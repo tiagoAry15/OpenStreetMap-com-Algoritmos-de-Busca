@@ -5,5 +5,7 @@ from utils.SolverUtil import Solver
 
 G = ox.graph_from_xml("map.osm")
 PF = Solver(G)
-AppController.FindPath(G, 8986661911, 482156286, PF.BFS)
-AppController.GenerateTreeFromAlgorithm(G, 8986661911, 482156286, PF.BFS)
+
+# AppController.plotMap(G)
+AppController.FindPath(G, 8986661911, 265021150, PF.buscaCustoUniforme)
+#AppController.GenerateTreeFromAlgorithm(G, 8986661911, 265021150, PF.BFS)

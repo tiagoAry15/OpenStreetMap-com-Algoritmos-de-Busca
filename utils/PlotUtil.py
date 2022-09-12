@@ -6,8 +6,17 @@ import random
 
 
 class PlotUtil():
+
     @staticmethod
-    def drawGraph(Graph, origin, goal, path):
+    def plotOSM(Graph):
+        Graph = ox.add_edge_speeds(Graph)
+        Graph = ox.add_edge_travel_times(Graph)
+        fig, ax = ox.plot_graph(
+            Graph, bgcolor="k", node_size=50, edge_linewidth=2, edge_color="#333333"
+        )
+
+    @staticmethod
+    def plotMapWithPath(Graph, origin, goal, path):
 
         color_map = ['red' if (node ==
                      origin or node ==
@@ -25,7 +34,7 @@ class PlotUtil():
     def PlotPathOSM(Graph, origin, goal, path):
         caminho = nx.shortest_path(Graph, origin, goal)
         ox.plot_graph_route(
-            Graph, caminho, route_linewidth=6, node_size=0, bgcolor='k')
+            Graph, path, route_linewidth=3, node_size=18, bgcolor='k')
 
 
 def hierarchy_pos(G, root=None, width=1., vert_gap=0.2, vert_loc=0, xcenter=0.5):
