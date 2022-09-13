@@ -1,9 +1,6 @@
-from dis import dis
+
 import math
 from queue import PriorityQueue
-from tracemalloc import start
-from turtle import st
-import networkx as nx
 from grafo import Graph
 
 from utils.PathUtil import PathUtil
@@ -35,7 +32,7 @@ class Solver():
         print("from node: ", origin, " to node: ",
               goal, " the distance is: ", distance)
 
-        return PathUtil.getPathFromParentList(self.graph, d, parent)
+        return PathUtil.getPathFromParentList(self.graph, goal, parent)
 
     def DFS(self, origin, goal):
         stack = []
@@ -61,7 +58,7 @@ class Solver():
         print("from node: ", origin, " to node: ",
               goal, " the distance is: ", distance)
 
-        return PathUtil.getPathFromParentList(self.graph, d, parent)
+        return PathUtil.getPathFromParentList(self.graph, goal, parent)
 
     def buscaCustoUniforme(self, origin, goal):
         totalNodes = len(self.graph.nodes)
@@ -99,7 +96,6 @@ class Solver():
         return path
 
     def BestFirst(self, origin, goal):
-        noAtual = ''
         totalNodes = len(self.graph.nodes)
         parent = [""]*(totalNodes)
         visited = [False]*(totalNodes)
@@ -116,9 +112,9 @@ class Solver():
                         visited[self.graph.nodes.index(noAtual)] = True
                         cost = self.graph.getAttributeFromEdge(
                             o, d, 'length')
-                        listaP.put(cost, d)
+                        listaP.put((cost, d))
                         parent[self.graph.nodes.index(d)] = o
-        return PathUtil.getPathFromParentList(self.graph, d, parent)
+        return PathUtil.getPathFromParentList(self.graph, goal, parent)
 
     def HillClimbing(self, origin, goal):
         totalNodes = len(self.graph.nodes)
@@ -126,7 +122,7 @@ class Solver():
         listaP = PriorityQueue()
         listaP.put((0, origin))
         while listaP.empty() == False:
-            (dist, noAtual) = listaP.get()
+            dist, noAtual = listaP.get()
             if noAtual == goal:
                 break
             adjacent = list(self.graph.graph.out_edges(noAtual))
@@ -137,9 +133,10 @@ class Solver():
                         o, d, 'length')
                     if distance < bestChoice[0]:
                         bestChoice = (distance, d)
-                        parent[self.graph.nodes.index(d)] = o
+                parent[self.graph.nodes.index(bestChoice[1])] = o
                 listaP.put(bestChoice)
-        return PathUtil.getPathFromParentList(self.graph, d, parent)
+
+        return PathUtil.getPathFromParentList(self.graph, goal, parent)
 
     def Aestrela(self, origin, goal):
         totalNodes = len(self.graph.nodes)

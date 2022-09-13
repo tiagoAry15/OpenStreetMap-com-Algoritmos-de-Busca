@@ -3,14 +3,12 @@ class PathUtil():
     def getPathFromParentList(Graph, goal, ParentList):
         path = []
         path.append(goal)
-        nodeList = list(Graph.nodes)
+        nodeList = list(Graph.graph.nodes)
         node = ParentList[nodeList.index(goal)]
         while node != '':
             path.append(node)
             node = ParentList[nodeList.index(node)]
         return path
-
-    
 
     @staticmethod
     def getEdgesListFromParentList(Graph, goal, ParentList):

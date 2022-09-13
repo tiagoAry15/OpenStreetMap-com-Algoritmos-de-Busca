@@ -10,7 +10,7 @@ class AppController():
     def FindPath(Graph, origin, goal, algorithm):
         path = algorithm(origin, goal)
         print(path)
-        #PlotUtil.PlotPathOSM(Graph, origin, goal, path)
+        PlotUtil.PlotPathOSM(Graph, origin, goal, path)
         return path
 
     def GenerateTreeFromAlgorithm(Graph, origin, goal, algorithm):
